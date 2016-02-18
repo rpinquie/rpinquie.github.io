@@ -96,7 +96,8 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 	}
 
 #container h1, #container h2, #container h3, #container h4, #container h5, #container h6{
-	color:#8199A9;
+	color:#B40404;
+	font-weight:bold;
 	background-color:#FFFFFF;
 	}
 
@@ -108,9 +109,10 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 #container .title{
 	display:block;
 	width:100%;
+	color: 0,0,255;
 	margin:0 0 20px 0;
 	padding:0 0 8px 0;
-	font-size:14px;
+	font-size:22px;
 	text-transform:uppercase;
 	border-bottom:5px solid #8199A9;
 	}
