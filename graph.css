@@ -1,0 +1,80 @@
+path.link {
+  fill: none;
+  stroke: #000;
+  stroke-width: 2px;
+  cursor: default;
+}
+path.link.licensing {
+    stroke: green;
+}
+path.link.resolved {
+    stroke-dasharray: 0, 2 1;
+}
+marker#licensing {
+    fill: green;
+}
+marker#suit, marker#resolved {
+    fill: black;
+}
+circle {
+    fill: #ccc;
+    stroke: #333;
+    stroke-width: 1.5px;
+}
+text {
+    font: 10px sans-serif;
+    pointer-events: none;
+}
+text.shadow {
+    stroke: #fff;
+    stroke-width: 3px;
+    stroke-opacity: .8;
+}
+body, .container {
+    background-color: white;
+    margin: 0px;
+}
+.graphContainer {
+    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+}
+#sidebar {
+    position: absolute;
+    z-index: 2;
+    background-color: #FFF;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #6895b4;
+    min-height: 3px;
+    min-width: 8px;
+}
+.item-group {
+    margin-bottom: 5px;
+}
+.item-group .item-label {
+    width: 90px;
+    text-align: right;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    position: relative;
+    min-height: 1px;
+    margin-top: 5px;
+    display: inline;
+    padding-right: 5px;
+    font-size: .90em;
+}
+.checkbox-interaction-group {
+    margin-left: 10px;
+    margin-top: 5px;
+    clear: both;
+}
+.checkbox-container {
+    display: block;
+    min-height: 22px;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+.checkbox-container label {
+    display:inline;
+    margin-bottom: 0px;
+}
