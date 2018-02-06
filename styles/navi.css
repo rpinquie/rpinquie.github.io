@@ -41,7 +41,7 @@ Author: Romain Pinquié
 	}
 
 #topnav li a:hover, #topnav li.active a{
-	color:#5F8EC2;
+	color:orange;
 	background:url("../images/topnav_a.gif") top center no-repeat #072C53;
 	}
 
