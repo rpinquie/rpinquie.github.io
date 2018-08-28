@@ -301,7 +301,7 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 
 #footer{
 	line-height:2em;
-	background:url("../images/footer_bg.gif") 220px 0px repeat-y;
+	background:url("../images/footer_bg.gif") 240px 0px repeat-y;
 	}
 
 #footer, #footer a{
@@ -328,7 +328,7 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 #footer .foot_contact{
 	display:block;
 	float:left;
-	width:220px;
+	width:240px;
 	margin:0 20px 0 0;
 	padding:0;
 	}
