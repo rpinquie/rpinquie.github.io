@@ -28,14 +28,14 @@ h2 {
 
 body, html {
 	height: 100%;
-	margin: 0px 200px 0px 200px;
+	margin: 0px 75px 0px 75px;
 	font-family: "times";
 }
 
 
 .bg {
   /* The image used */
-  background-image: url("images/visionr.jpg");
+  background-image: url("medias/visionr.jpg");
 
   /* Full height */
   height: 15%;
