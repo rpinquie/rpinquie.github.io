@@ -1,0 +1,30 @@
+.member-intro-wrapper {
+    display:flex;
+}
+
+.member-intro-content {
+    padding-left: 1em;
+}
+
+@media (max-width:40em) {
+    .member-intro-wrapper {
+        display:block;
+    }
+}
+
+.thumbnail-container {
+    width: 280px;
+    height: 280px;
+    flex-shrink: 0;
+}
+
+.thumbnail-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: 50% 50%;
+}
+
+.publi-hal {
+    width: 100%;
+}
