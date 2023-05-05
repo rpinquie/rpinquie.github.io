@@ -48,6 +48,7 @@ Below is a non-exhaustive list of international conferences publishing results i
   - [IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)](https://ieeexplore.ieee.org/xpl/conhome/9585620/proceeding)
 - Human-Computer Interaction:
   - [International Conference on Human-Computer Interaction (HCI)](https://2023.hci.international/index.html)
+  - [Special Interest Group on Computer-Human Interaction](https://sigchi.org/)
   - [Conference on Human Factors in Computing Systems (CHI)](https://dl.acm.org/doi/proceedings/10.1145/3491102)
   - [Special Interest Group on Computer Graphics and Interactive Techniques (SIGGRAPH)](https://www.siggraph.org/)
   - [SIGCHI Symposium on Engineering Interactive Computing Systems](https://eics.acm.org/2023/)
