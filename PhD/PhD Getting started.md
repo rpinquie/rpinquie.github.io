@@ -43,20 +43,24 @@ Below is a non-exhaustive list of international conferences publishing results i
   - [Annual INCOSE International Workshop](https://www.incose.org/IW2023)
   - [INCOSE Human Systems Intergration Workshop](https://www.incose.org/hsiws2022)
 - Virtual and Augmented Reality:
-  - [IEEE Conference on Virtual Reality (VR) and 3D User Interfaces][http://ieeevr.org/2023/]
+  - [IEEE Conference on Virtual Reality (VR) and 3D User Interfaces](http://ieeevr.org/2023)
   - [International Conference EuroXR](https://www.euroxr-association.org/euroxr-conferences/)
   - [IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)](https://ieeexplore.ieee.org/xpl/conhome/9585620/proceeding)
 - Human-Computer Interaction:
   - [International Conference on Human-Computer Interaction (HCI)](https://2023.hci.international/index.html)
-  - [Special Interest Group on Computer-Human Interaction](https://sigchi.org/)
+  - [Special Interest Group on Computer-Human Interaction (SIGCHI)](https://sigchi.org/)
   - [Conference on Human Factors in Computing Systems (CHI)](https://dl.acm.org/doi/proceedings/10.1145/3491102)
-  - [Special Interest Group on Computer Graphics and Interactive Techniques (SIGGRAPH)](https://www.siggraph.org/)
   - [SIGCHI Symposium on Engineering Interactive Computing Systems](https://eics.acm.org/2023/)
   - [Conference on Computer-Supported Cooperative Work (CSCW)](https://cscw.acm.org/)
-  - [European Conference on Cognitive Ergonomics (ECCE)](European Conference on Cognitive Ergonomics)
+  - [European Conference on Cognitive Ergonomics (ECCE)](https://digitaleconomy.wales/ecce2023/)
 - Geometric Modelling:
   - [Symposium on Solid and Physical Modeling (SPM)](https://sites.google.com/view/spm-2023/)
   - [Shape Modeling International (SMI)](https://smiconf.github.io/)
+
+## Special Interest Groups
+  - [Special Interest Group on Computer Graphics and Interactive Techniques (SIGGRAPH)](https://www.siggraph.org/)
+  - [Design Society Special Interest Groups](https://www.designsociety.org/group/11/Special+Interest+Groups+%28SIGs%29)
+  - [Association Française de Réalité Virtuelle et Augmentée (AFXR)](https://www.afxr.org/page/1756926-accueil)
 
 ## Methodological guidelines
 
@@ -64,7 +68,7 @@ Below is a non-exhaustive list of methdological guidelines for conducting good a
 
 - Literature review
   - [Faire une revue de la littérature : pourquoi et comment ?](https://hal.science/hal-00657381/file/Pages_15_A_27_-_Dumez_H._-_2011_-_Faire_une_revue_de_littA_rature._-_Libellio_vol._7_nA_2.pdf)
-  - [Writing a literature review](biblio/Writing a literature review.pdf)
+  - [Writing a literature review](https://github.com/rpinquie/rpinquie.github.io/blob/master/PhD/biblio/Writing%20a%20literature%20review.pdf)
   - [PRISMA Systematic Literature Review](http://www.prisma-statement.org/)
   - [PRISMA Systematic Literature Review - Flowcharts](http://www.prisma-statement.org/PRISMAStatement/FlowDiagram)
 
@@ -75,11 +79,11 @@ Below is a non-exhaustive list of methdological guidelines for conducting good a
   	- Validation square [link 1](https://www.researchgate.net/publication/238355807_The''Validation_Square''-Validating_Design_Methods), [link 2](https://asmedigitalcollection.asme.org/ebooks/book/103/chapter-abstract/22576/The-Validation-Square-How-Does-One-Verify-and?redirectedFrom=fulltext)
 
 - Academic Scientific Writting
-  - [Academic phrasebank](biblio/Academic phrasebank.pdf)
-  - [Alternative words](biblio/Alternative words.pdf)
-  - [Scientific writing](biblio/Scientific writing.pdf)
-  - [English writing](biblio/English writing.pdf)
-  - [Citing bibliographic references](biblio/Citing bibliographic references.pdf)
+  - [Academic phrasebank](https://github.com/rpinquie/rpinquie.github.io/tree/master/PhD/biblio/Academic%20phrasebank.pdf)
+  - [Alternative words](https://github.com/rpinquie/rpinquie.github.io/tree/master/PhD/biblio/Alternative%20words.pdf)
+  - [Scientific writing](https://github.com/rpinquie/rpinquie.github.io/tree/master/PhD/biblio/Scientific%20writing.pdf)
+  - [English writing](https://github.com/rpinquie/rpinquie.github.io/tree/master/PhD/biblio/English%20writing.pdf)
+  - [Citing bibliographic references](https://github.com/rpinquie/rpinquie.github.io/tree/master/PhD/biblio/Citing%20bibliographic%20references.pdf)
 - Benchmarking in Industrial Engineering Research:
   - [S.mart version-controlled and community-based open benchmarking platform](https://github.com/GIS-S-mart/Welcome)
 - Open Science:
