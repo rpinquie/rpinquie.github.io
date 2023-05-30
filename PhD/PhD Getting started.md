@@ -12,7 +12,7 @@ Below is a non-exhaustive list of Q1 journals publishing results in the discipli
   - [International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies), Q1, H-INDEX=129 , IF=4.866
   - [ACM Transactions on Computer-Human Interaction](https://dl.acm.org/journal/tochi), Q1, H-INDEX=95, IF=
 - Computer-Aided Design and Engineering:
-  - [Comupters in Industry](https://www.sciencedirect.com/journal/computers-in-industry), Q1, H-INDEX=108, IF=11.245
+  - [Computers in Industry](https://www.sciencedirect.com/journal/computers-in-industry), Q1, H-INDEX=108, IF=11.245
   - [Engineering with Computers](https://www.springer.com/journal/366), Q1, H-INDEX=60, IF=8.083
   - [Journal of Computational Design and Engineering](https://academic.oup.com/jcde?login=false), Q1, H-INDEX=29, IF=6.167
   - [Artificial Intelligence in Engineering Design, Analysis and Manufacturing](https://www.cambridge.org/core/journals/ai-edam), Q1, H-INDEX=54, IF=1.634
@@ -75,7 +75,7 @@ Below is a non-exhaustive list of methdological guidelines for conducting good a
 - Research Methods in Engineering Design
 
   	- DRM [link 1](https://link.springer.com/book/10.1007/978-1-84882-587-1), [link 2](https://edisciplinas.usp.br/pluginfile.php/6312877/mod_resource/content/2/Txtei0476%20DRM%202009.pdf), 
-
+	
   	- Validation square [link 1](https://www.researchgate.net/publication/238355807_The''Validation_Square''-Validating_Design_Methods), [link 2](https://asmedigitalcollection.asme.org/ebooks/book/103/chapter-abstract/22576/The-Validation-Square-How-Does-One-Verify-and?redirectedFrom=fulltext)
 
 - Academic Scientific Writting
