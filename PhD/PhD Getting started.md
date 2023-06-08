@@ -79,7 +79,7 @@ Below is a non-exhaustive list of methdological guidelines for conducting good a
   	- Validation square [link 1](https://www.researchgate.net/publication/238355807_The''Validation_Square''-Validating_Design_Methods), [link 2](https://asmedigitalcollection.asme.org/ebooks/book/103/chapter-abstract/22576/The-Validation-Square-How-Does-One-Verify-and?redirectedFrom=fulltext)
 
 - Academic Scientific Writting
-  - [Academic phrasebank](https://github.com/rpinquie/rpinquie.github.io/tree/master/PhD/biblio/Academic%20phrasebank.pdf)
+  - [Academic phrasebank](https://github.com/rpinquie/rpinquie.github.io/blob/master/PhD/biblio/Academic%20phrasebanck.pdf)
   - [Alternative words](https://github.com/rpinquie/rpinquie.github.io/tree/master/PhD/biblio/Alternative%20words.pdf)
   - [Scientific writing](https://github.com/rpinquie/rpinquie.github.io/tree/master/PhD/biblio/Scientific%20writing.pdf)
   - [English writing](https://github.com/rpinquie/rpinquie.github.io/tree/master/PhD/biblio/English%20writing.pdf)
