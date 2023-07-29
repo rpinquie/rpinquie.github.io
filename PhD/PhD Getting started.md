@@ -49,6 +49,7 @@ Below is a non-exhaustive list of international conferences publishing results i
 - Human-Computer Interaction:
   - [International Conference on Human-Computer Interaction (HCI)](https://2023.hci.international/index.html)
   - [Special Interest Group on Computer-Human Interaction (SIGCHI)](https://sigchi.org/)
+  - [ACM SIGGRAPH](https://www.siggraph.org/)
   - [Conference on Human Factors in Computing Systems (CHI)](https://dl.acm.org/doi/proceedings/10.1145/3491102)
   - [SIGCHI Symposium on Engineering Interactive Computing Systems](https://eics.acm.org/2023/)
   - [Conference on Computer-Supported Cooperative Work (CSCW)](https://cscw.acm.org/)
@@ -75,7 +76,7 @@ Below is a non-exhaustive list of methdological guidelines for conducting good a
 - Research Methods in Engineering Design
 
   	- DRM [link 1](https://link.springer.com/book/10.1007/978-1-84882-587-1), [link 2](https://edisciplinas.usp.br/pluginfile.php/6312877/mod_resource/content/2/Txtei0476%20DRM%202009.pdf), 
-	
+		
   	- Validation square [link 1](https://www.researchgate.net/publication/238355807_The''Validation_Square''-Validating_Design_Methods), [link 2](https://asmedigitalcollection.asme.org/ebooks/book/103/chapter-abstract/22576/The-Validation-Square-How-Does-One-Verify-and?redirectedFrom=fulltext)
 
 - Academic Scientific Writting
