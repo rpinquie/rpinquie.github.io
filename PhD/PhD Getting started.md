@@ -18,6 +18,7 @@ Below is a non-exhaustive list of Q1 journals publishing results in the discipli
   - [Artificial Intelligence in Engineering Design, Analysis and Manufacturing](https://www.cambridge.org/core/journals/ai-edam), Q1, H-INDEX=54, IF=1.634
 - Computer Graphics and Geometric Modelling:
   - [IEEE Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945), Q1, H-INDEX=54, CiteScore=11.4, IF=5.226
+  - [IEEE Computer Graphics and Applications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=38)
   - [Computer Aided Design](https://www.sciencedirect.com/journal/computer-aided-design), Q1, CiteScore=6.1, H-INDEX, IF=3.652
 - Design Methods, Theories, and Tools:
   - [Research in Engineering Design](https://www.springer.com/journal/163), Q1, H-INDEX=71, IF=2.9
