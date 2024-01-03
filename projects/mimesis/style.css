@@ -36,6 +36,10 @@ body, html {
 	font-family: "times";
 }
 
+a {
+  color: #EB984E  ;
+}
+
 
 .bg {
   /* The image used */
