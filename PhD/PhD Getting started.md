@@ -43,6 +43,8 @@ Below is a non-exhaustive list of international conferences publishing results i
   - [INCOSE International Symposium](https://www.incose.org/symp2022/home/what-is-the-international-symposium)
   - [Annual INCOSE International Workshop](https://www.incose.org/IW2023)
   - [INCOSE Human Systems Intergration Workshop](https://www.incose.org/hsiws2022)
+  - [Complex Systems Design & Management Conference (CSDM)](https://cesam.community/csdm-2024/)
+  - [Model Driven Engineering Languages and Systems (MODELS)](https://conf.researchr.org/home/models-2024)
 - Virtual and Augmented Reality:
   - [IEEE Conference on Virtual Reality (VR) and 3D User Interfaces](http://ieeevr.org/2023)
   - [International Conference EuroXR](https://www.euroxr-association.org/euroxr-conferences/)
