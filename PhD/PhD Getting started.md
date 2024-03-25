@@ -69,28 +69,31 @@ Below is a non-exhaustive list of international conferences publishing results i
 
 ## Methodological guidelines
 
-Below is a non-exhaustive list of methdological guidelines for conducting good acedemic research attempting to understand or improve engineering design activities.
+Below is a non-exhaustive list of methodological guidelines for conducting good academic design research, which attempts to understand or improve design research activities.
 
-- Literature review
+- Literature Review
   - [Faire une revue de la littérature : pourquoi et comment ?](https://hal.science/hal-00657381/file/Pages_15_A_27_-_Dumez_H._-_2011_-_Faire_une_revue_de_littA_rature._-_Libellio_vol._7_nA_2.pdf)
   - [Writing a literature review](https://github.com/rpinquie/rpinquie.github.io/blob/master/PhD/biblio/Writing%20a%20literature%20review.pdf)
   - [PRISMA Systematic Literature Review](http://www.prisma-statement.org/)
   - [PRISMA Systematic Literature Review - Flowcharts](http://www.prisma-statement.org/PRISMAStatement/FlowDiagram)
+  - [Systematic Literature Reviews: An Introduction](https://www.cambridge.org/core/journals/proceedings-of-the-international-conference-on-engineering-design/article/systematic-literature-reviews-an-introduction/40D4CEA7A7CC3FB6ED6233E79A0A2A1F)
+  - [Frameworks for developing impactful systematic literature reviews and theory building: What, Why and How?](https://www-tandfonline-com.sid2nomade-2.grenet.fr/doi/epdf/10.1080/12460125.2023.2197700?needAccess=true)
+  - [Developing classic systematic literature reviews to advance knowledge: Dos and don'ts](https://www-sciencedirect-com.sid2nomade-2.grenet.fr/science/article/pii/S0263237323001330?via%3Dihub)
+  - [The art of writing literature review: What do we know and what do we need to know?](https://www-sciencedirect-com.sid2nomade-2.grenet.fr/science/article/pii/S0969593120300585?via%3Dihub)
 
-- Research Methods in Engineering Design
+- Design Research and Validation Methods:
+  - DRM [link 1](https://link.springer.com/book/10.1007/978-1-84882-587-1), [link 2](https://edisciplinas.usp.br/pluginfile.php/6312877/mod_resource/content/2/Txtei0476%20DRM%202009.pdf),
+  - Validation square [link 1](https://www.researchgate.net/publication/238355807_The''Validation_Square''-Validating_Design_Methods), [link 2](https://asmedigitalcollection.asme.org/ebooks/book/103/chapter-abstract/22576/The-Validation-Square-How-Does-One-Verify-and?redirectedFrom=fulltext)
+  - [S.mart version-controlled and community-based open benchmarking platform](https://github.com/GIS-S-mart/Welcome)
 
-  	- DRM [link 1](https://link.springer.com/book/10.1007/978-1-84882-587-1), [link 2](https://edisciplinas.usp.br/pluginfile.php/6312877/mod_resource/content/2/Txtei0476%20DRM%202009.pdf), 
-		
-  	- Validation square [link 1](https://www.researchgate.net/publication/238355807_The''Validation_Square''-Validating_Design_Methods), [link 2](https://asmedigitalcollection.asme.org/ebooks/book/103/chapter-abstract/22576/The-Validation-Square-How-Does-One-Verify-and?redirectedFrom=fulltext)
-
-- Academic Scientific Writting
+- Academic Scientific Writting:
+  - [CIRP Design - How to write a good STC Dn paper](https://github.com/rpinquie/rpinquie.github.io/blob/master/PhD/biblio/How%20to%20write%20a%20good%20Dn%20paper%20v2.pdf)
   - [Academic phrasebank](https://github.com/rpinquie/rpinquie.github.io/blob/master/PhD/biblio/Academic%20phrasebanck.pdf)
   - [Alternative words](https://github.com/rpinquie/rpinquie.github.io/tree/master/PhD/biblio/Alternative%20words.pdf)
   - [Scientific writing](https://github.com/rpinquie/rpinquie.github.io/tree/master/PhD/biblio/Scientific%20writing.pdf)
   - [English writing](https://github.com/rpinquie/rpinquie.github.io/tree/master/PhD/biblio/English%20writing.pdf)
   - [Citing bibliographic references](https://github.com/rpinquie/rpinquie.github.io/tree/master/PhD/biblio/Citing%20bibliographic%20references.pdf)
-- Benchmarking in Industrial Engineering Research:
-  - [S.mart version-controlled and community-based open benchmarking platform](https://github.com/GIS-S-mart/Welcome)
+
 - Open Science:
   - [Recherche Data Gouv](https://entrepot.recherche.data.gouv.fr/loginpage.xhtml;jsessionid=3f3e86caa237b27b725ff95e69ca?redirectPage=%2Fdataverseuser.xhtml)
   - [PerSCiDO](https://perscido.univ-grenoble-alpes.fr/)
