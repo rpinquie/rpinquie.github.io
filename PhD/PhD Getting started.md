@@ -57,6 +57,7 @@ Below is a non-exhaustive list of international conferences publishing results i
   - [SIGCHI Symposium on Engineering Interactive Computing Systems](https://eics.acm.org/2023/)
   - [Conference on Computer-Supported Cooperative Work (CSCW)](https://cscw.acm.org/)
   - [European Conference on Cognitive Ergonomics (ECCE)](https://digitaleconomy.wales/ecce2023/)
+  - [IEEE VIS](https://ieeevis.org/year/2024/welcome)
 - Geometric Modelling:
   - [Symposium on Solid and Physical Modeling (SPM)](https://sites.google.com/view/spm-2023/)
   - [Shape Modeling International (SMI)](https://smiconf.github.io/)
