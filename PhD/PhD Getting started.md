@@ -9,23 +9,28 @@ This collection of resources intends to support researchers, especially PhD stud
 Below is a non-exhaustive list of Q1 journals publishing results in the disciplines related to the research conducted by the G-SCOP Collaborative & Integrated Design research group, especially the ones supported by the technological platform VISION-R.
 
 - Human-Computer Interaction:
-  - [International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies), Q1, H-INDEX=129 , IF=4.866
+  - [International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies), Q1, H-INDEX=145, CiteScore=11.9, IF=5.4
+  - [Virtual Reality](https://link-springer-com.sid2nomade-2.grenet.fr/journal/10055), Q1, H-INDEX=64, IF=4.2
+  - [International Journal on Human-Computer Interaction](https://www-tandfonline-com.sid2nomade-2.grenet.fr/journals/hihc20), Q1, H-INDEX=90, CiteScore=8.8, IF=4.7
   - [ACM Transactions on Computer-Human Interaction](https://dl.acm.org/journal/tochi), Q1, H-INDEX=95, IF=
 - Computer-Aided Design and Engineering:
   - [Computers in Industry](https://www.sciencedirect.com/journal/computers-in-industry), Q1, H-INDEX=108, IF=11.245
   - [Engineering with Computers](https://www.springer.com/journal/366), Q1, H-INDEX=60, IF=8.083
-  - [Journal of Computational Design and Engineering](https://academic.oup.com/jcde?login=false), Q1, H-INDEX=29, IF=6.167
+  - [Advanced Engineering Informatics](), Q1, H-INDEX=110, CiteScore=11.8, IF=8.8
+  - [Journal of Computational Design and Engineering](https://academic.oup.com/jcde?login=false), Q1, H-INDEX=29, CiteScore=8.7, IF=4.9
   - [Artificial Intelligence in Engineering Design, Analysis and Manufacturing](https://www.cambridge.org/core/journals/ai-edam), Q1, H-INDEX=54, IF=1.634
 - Computer Graphics and Geometric Modelling:
   - [IEEE Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945), Q1, H-INDEX=54, CiteScore=11.4, IF=5.226
-  - [IEEE Computer Graphics and Applications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=38)
+  - [Computer & Graphics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=38), Q1, H-INDEX=82, CiteScore=4.9 IF=2.5
+  
   - [Computer Aided Design](https://www.sciencedirect.com/journal/computer-aided-design), Q1, CiteScore=6.1, H-INDEX, IF=3.652
 - Design Methods, Theories, and Tools:
   - [Research in Engineering Design](https://www.springer.com/journal/163), Q1, H-INDEX=71, IF=2.9
-  - [Design Studies](https://www.sciencedirect.com/journal/design-studies),  Q1, CiteScore=6.7, H-INDEX, IF=3.853
   - [Journal of Engineering Design](https://www.tandfonline.com/toc/cjen20/current), Q1, H-INDEX=55, IF=2.4
-  - [Design Science](https://www.cambridge.org/core/journals/design-science), Q1, H-INDEX=18, IF=
+  - [Design Studies](https://www.sciencedirect.com/journal/design-studies),  Q1, CiteScore=6.7, H-INDEX, IF=3.853
+  - [Design Science](https://www.cambridge.org/core/journals/design-science), Q1, H-INDEX=18, CiteScore=3.5, IF=1.22
   - [International Journal of CoCreation in Design and the Arts](https://www.tandfonline.com/journals/ncdn20), Q1, H-INDEX=29, IF=2.15
+  - [Concurrent Engineering Research and Applications](https://journals.sagepub.com/home/cer), Q2, H-INDEX=45, CiteScore=4.2, IF=1.045
 
 ## Main Conferences
 
@@ -86,6 +91,11 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
   - Validation square [link 1](https://www.researchgate.net/publication/238355807_The''Validation_Square''-Validating_Design_Methods), [link 2](https://asmedigitalcollection.asme.org/ebooks/book/103/chapter-abstract/22576/The-Validation-Square-How-Does-One-Verify-and?redirectedFrom=fulltext)
   - [S.mart version-controlled and community-based open benchmarking platform](https://github.com/GIS-S-mart/Welcome)
 
+- Experiment Design:
+  - [MIT Experiment design](https://web.mit.edu/6.813/www/sp16/classes/11-experiment-design/#experiment-design-techniques)
+  
+  - [Desigining HCI experiments](https://www3.cs.stonybrook.edu/~mueller/teaching/cse323/05-DesigningHCIExperiments.pdf)
+  
 - Academic Scientific Writting:
   - [CIRP Design - How to write a good STC Dn paper](https://github.com/rpinquie/rpinquie.github.io/blob/master/PhD/biblio/How%20to%20write%20a%20good%20Dn%20paper%20v2.pdf)
   - [Academic phrasebank](https://github.com/rpinquie/rpinquie.github.io/blob/master/PhD/biblio/Academic%20phrasebanck.pdf)
