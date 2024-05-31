@@ -41,6 +41,7 @@ Below is a non-exhaustive list of international conferences publishing results i
   - [Design](https://www.designconference.org/)
   - [CIRP Design]()
   - [Design Computing and Cognition (DCC)]()
+  - [International Conference on Research Into Design](https://design.iith.ac.in/icord25/)
   - [International Conference on Product Lifecycle Management (PLM)]()
 - Systems Engineering:
   - [Conference on Systems Engineering Research (CSER)](https://cser.info/)
@@ -89,12 +90,13 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 - Design Research and Validation Methods:
   - DRM [link 1](https://link.springer.com/book/10.1007/978-1-84882-587-1), [link 2](https://edisciplinas.usp.br/pluginfile.php/6312877/mod_resource/content/2/Txtei0476%20DRM%202009.pdf),
   - Validation square [link 1](https://www.researchgate.net/publication/238355807_The''Validation_Square''-Validating_Design_Methods), [link 2](https://asmedigitalcollection.asme.org/ebooks/book/103/chapter-abstract/22576/The-Validation-Square-How-Does-One-Verify-and?redirectedFrom=fulltext)
-  - [S.mart version-controlled and community-based open benchmarking platform](https://github.com/GIS-S-mart/Welcome)
-
+  - 
+  - Lot of resources on [S.mart version-controlled and community-based open benchmarking platform](https://github.com/GIS-S-mart/Welcome)
+  
 - Experiment Design:
   - [MIT Experiment design](https://web.mit.edu/6.813/www/sp16/classes/11-experiment-design/#experiment-design-techniques)
   
-  - [Desigining HCI experiments](https://www3.cs.stonybrook.edu/~mueller/teaching/cse323/05-DesigningHCIExperiments.pdf)
+  - [Designing HCI experiments](https://www3.cs.stonybrook.edu/~mueller/teaching/cse323/05-DesigningHCIExperiments.pdf)
   
 - Academic Scientific Writting:
   - [CIRP Design - How to write a good STC Dn paper](https://github.com/rpinquie/rpinquie.github.io/blob/master/PhD/biblio/How%20to%20write%20a%20good%20Dn%20paper%20v2.pdf)
