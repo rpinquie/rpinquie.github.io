@@ -1,4 +1,4 @@
-# Design Research Resources
+# Design & Human-Computer Interaction Research Resources
 
 This collection of resources intends to support researchers, especially PhD students, in their daily research activities.  
 
@@ -132,9 +132,65 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 ## Computational Tools
 
 - [GRICAD services for scientific computing](https://gricad.univ-grenoble-alpes.fr/catalogue.html)
+- Statistical analysis:
+  - R and RStudio with the [WRS2 package](https://cran.r-project.org/web/packages/WRS2/index.html)
+    - [Quick-R tutorial](https://www.statmethods.net/)
+  - [Minitab](https://www.minitab.com/) (available on Citrix)
+  - SPSS
+  - SAS
+  - [Python statistics.py library](https://docs.python.org/3/library/statistics.html)
+  - [Jamovi](https://www.jamovi.org/)
+  - [Datatab](https://datatab.net/)
 - Software development:
   - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - Activity analysis:
   - [ActoGraph](https://www.actograph.io/fr/software/description)
   - [**B**ehavioral **O**bservation **R**esearch **I**nteractive **S**oftware (BORIS)](https://www.boris.unito.it/)
-- ...
+- 
+
+## **Design and Human-Computer Interaction Research Methods**
+
+### Glossary
+
+- **Research hypothesis**: a precise problem statement that can be directly tested through an empirical investigation.
+
+### Design Research *VS.* HCI Research
+
+Most of the tasks that examine complicated or learned skills or knowledge—such as typing, reading, composition, and problem solving—are less susceptible to learning effects.
+
+### Types of Research
+
+Empirical investigation can be categorized into three groups:
+
+- **Descriptive investigations**, such as observations, surveys, and focus groups, focus on constructing an accurate description of what is happening.
+- **Relational investigations** enable the researcher to identify relations between multiple factors. That is, the value of factor X changes as the value of factor Y changes.
+- **Experimental investigations** enable the researchers to determine the causal effect between two factors.
+
+![image-20240724091741694](./Images/image-20240724091741694.png)
+
+The three kinds of research methods are not totally independent but highly intertwined. Typical research projects include a combination of two or even three kinds of investigation. Descriptive investigations are often the first step of a research program, enabling researchers to identify interesting phenomena or events that establish the cornerstone of the research and identify future research directions. Relational investigations enable researchers or practitioners to discover connections between multiple events or variables. Ultimately, experimental research provides the opportunity to explore the fundamental causal relations. Each of the three kinds of investigation is of great importance in the process of scientific discovery.
+
+### Research Methods
+
+#### Controlled experiment
+
+#### Qualitative research
+
+##### Observations
+
+##### Field studies
+
+##### Surveys
+
+##### Interviews
+
+##### Focus group
+
+##### 
+
+#### Recommended readings
+
+- [Research Methods for Human-Computer Interaction](https://www.cambridge.org/core/books/research-methods-for-humancomputer-interaction/43E95E979117C42DF822673D098474D2)
+- [Research Methods in Human Computer Interaction](https://www.sciencedirect.com/book/9780128053904/research-methods-in-human-computer-interaction)
+- [Doing Better Statistics in Human-Computer Interaction](https://www.cambridge.org/core/books/doing-better-statistics-in-humancomputer-interaction/1D19B5419225C05D6E4FE189A345BDB8)
+- Reliability and Inter-rater Reliability in Qualitative Research: Norms and Guidelines for CSCW and HCI Practice
