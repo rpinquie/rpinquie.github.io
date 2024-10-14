@@ -66,10 +66,11 @@ Below is a non-exhaustive list of international conferences publishing results i
   - [International Conference EuroXR](https://www.euroxr-association.org/euroxr-conferences/)
   - [IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)](https://ieeexplore.ieee.org/xpl/conhome/9585620/proceeding)
 - Human-Computer Interaction:
-  - [International Conference on Human-Computer Interaction (HCI)](https://2023.hci.international/index.html)
+  - [Conference on Human Factors in Computing Systems (CHI)](https://dl.acm.org/doi/proceedings/10.1145/3491102)[International Conference on Human-Computer Interaction (HCI)](https://2023.hci.international/index.html)
   - [Special Interest Group on Computer-Human Interaction (SIGCHI)](https://sigchi.org/)
+  - [ACM Symposium on Applied Perception](https://sap.acm.org/)
   - [ACM SIGGRAPH](https://www.siggraph.org/)
-  - [Conference on Human Factors in Computing Systems (CHI)](https://dl.acm.org/doi/proceedings/10.1145/3491102)
+  - [ACM SIGIR Conference on Human Information Interaction and Retrieval](https://chiir.org/)
   - [SIGCHI Symposium on Engineering Interactive Computing Systems](https://eics.acm.org/2023/)
   - [Conference on Computer-Supported Cooperative Work (CSCW)](https://cscw.acm.org/)
   - [European Conference on Cognitive Ergonomics (ECCE)](https://digitaleconomy.wales/ecce2023/)
