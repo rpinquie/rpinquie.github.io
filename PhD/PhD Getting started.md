@@ -63,6 +63,7 @@ Below is a non-exhaustive list of international conferences publishing results i
 - [Special Interest Group on Computer-Human Interaction (SIGCHI)](https://sigchi.org/)
 - [ACM Symposium on Applied Perception](https://sap.acm.org/)
 - [ACM SIGGRAPH](https://www.siggraph.org/)
+- [ACM SIGCHI Design Interactive Systems](https://dis.acm.org/)
 - [ACM SIGIR Conference on Human Information Interaction and Retrieval](https://chiir.org/)
 - [SIGCHI Symposium on Engineering Interactive Computing Systems](https://eics.acm.org/2023/)
 - [Conference on Computer-Supported Cooperative Work (CSCW)](https://cscw.acm.org/)
@@ -93,6 +94,7 @@ Below is a non-exhaustive list of international conferences publishing results i
 
 - [IEEE Conference on Virtual Reality (VR) and 3D User Interfaces](http://ieeevr.org/2023)
 - [International Conference EuroXR](https://www.euroxr-association.org/euroxr-conferences/)
+- [ACM SIGCHI Virtual Reality Software and Technology](https://vrst.acm.org/)
 - [IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)](https://ieeexplore.ieee.org/xpl/conhome/9585620/proceeding)
 - [ESA AR/VR for Space Programs](https://indico.esa.int/event/475/)
 
