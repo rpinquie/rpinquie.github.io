@@ -52,7 +52,6 @@ Below is a non-exhaustive list of Q1 journals publishing results in the discipli
 - [Human Factors](https://journals.sagepub.com/home/HFS)
 - [Le travail humain](https://letravailhumain.org/en/)
 
-
 ## Main Conferences
 
 Below is a non-exhaustive list of international conferences publishing results in the disciplines related to the research conducted by the G-SCOP Collaborative & Integrated Design research group, especially the ones supported by the technological platform VISION-R.
@@ -103,7 +102,21 @@ Below is a non-exhaustive list of international conferences publishing results i
 - [Symposium on Solid and Physical Modeling (SPM)](https://sites.google.com/view/spm-2023/)
 - [Shape Modeling International (SMI)](https://smiconf.github.io/)
 
-## Special Interest Groups
+# Courses
+
+## UGA-INP 
+
+- [Scientific Methodology and Experimental Evaluation](https://mosig.imag.fr/SMEE/SMEE)
+- [Initiation to experiment design and research - VPMDIED1 (Phelma)](https://phelma.grenoble-inp.fr/fr/formation/initiation-to-experiment-design-and-research-vpmdied1)
+- [UE Basic statistics and Experimental Design (UFR Biologie)](https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-biologie-vegetale-KISWRTVR/parcours-planta-international-KISX7I4W/ue-basic-statistics-and-experimental-design-JDA5F0TU.html#)
+- [UE Human Computer Interaction]()
+
+## MOOC
+
+- [INRIA Recherche reproductible : principes méthodologiques pour une science transparente](https://www.fun-mooc.fr/fr/cours/recherche-reproductible-principes-methodologiques-pour-une-science-transparente/)
+
+# Special Interest Groups
+
 ### Human-Computer Interaction
 
 - [Groupement de Recherche Informatique Géometrique et Graphique, Réalité Virtuelle et Visualisation (GDR IG-RV)](https://gdr-igrv.fr/)
@@ -195,6 +208,54 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 
 - [ActoGraph](https://www.actograph.io/fr/software/description)
 - [**B**ehavioral **O**bservation **R**esearch **I**nteractive **S**oftware (BORIS)](https://www.boris.unito.it/)
+
+
+
+## SPSS How-To
+
+- [How to get descriptive statistics across groups](https://www.youtube.com/watch?time_continue=10&v=VAcSCK6A1VI&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Ddesriptive%2Bstatistics%2Bspss%2Bgroups%26rlz%3D1C1GCEA_enFR1144FR1144%26oq%3Ddesriptive%2Bstatistics%2Bspss%2Bgroup&source_ve_path=Mjg2NjY)
+- [How to get boxplots across groups](https://www.youtube.com/watch?v=Tj61PgbJ1b4&t=7s&ab_channel=Statorials)
+- [How to perform an independent samples T-Test](https://www.youtube.com/watch?v=gHSE6paes2w&ab_channel=Statorials) 
+- [How to report results from independent samples t-test](https://www.youtube.com/watch?v=6RK3d5KIgMo&ab_channel=Statorials)
+- [How to report results from independent samples t-test in APA style](https://ezspss.com/reporting-an-independent-samples-t-test-from-spss-in-apa-style/)
+- [How to detect outliers with the Interquartile Range (IQR) and boxplot](https://www.youtube.com/watch?v=H1i8EUTFVBA&ab_channel=Dr.ToddGrande)
+- [How to check assumption of homogeneity of variance with Levene's test](https://www.youtube.com/watch?time_continue=567&v=4mkEZxgxMRA&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fsca_esv%3Dfc24ddbdfeda5bef%26rlz%3D1C1GCEA_enFR1144FR1144%26udm%3D7%26sxsrf%3DAHTn8zp823IaP1lfKRCNt7x8HwLYNAOHyQ&source_ve_path=MzY4NDIsMTM5MTE3LDM2ODQyLDM2ODQyLDI4NjY2)
+- 
+- [How to check assumption of normally distributed with Shapiro-Wilk test (small sample sizes <50 samples) or Kolmogorov-Smirnov test](https://statistics.laerd.com/spss-tutorials/testing-for-normality-using-spss-statistics.php)
+- [Shapiro-Wilk test of normality for each level of independent variable](https://www.youtube.com/watch?v=iNrBDxMZWxg&ab_channel=Dr.ToddGrande)
+- [How to report a Mann-Whitney U test in APA Style](https://ezspss.com/how-to-report-a-mann-whitney-u-test-from-spss-in-apa-style/)
+
+TO sort:
+
+- 
+- https://www.youtube.com/watch?v=H1i8EUTFVBA&ab_channel=Dr.ToddGrande
+
+
+
+
+
+| Cohen's d | Effect size |
+| :-------: | :---------: |
+| 0.00-0.19 | Very small  |
+| 0.20-0.49 |    Small    |
+| 0.50-0.79 |   Medium    |
+|   0.80+   |    Large    |
+
+
+
+In the first game, for the *Number of Attempts variable*, the Mann–Whitney *U* test was applied (*U* = 64.5, *Z* = −1.572, *p* = 0.121, *r* = 0.297). This result indicates that there are no statistically significant differences between the two conditions. If the outlier (shown in Fig. [5](https://link-springer-com.sid2nomade-2.grenet.fr/article/10.1007/s10055-022-00722-7#Fig5)) is eliminated from Group A (controllers), the result still indicates that there are no significant differences between the two conditions. This outlier does not correspond to any participant with motor problems. For the *Total Time* variable, the Mann–Whitney *U* test was also applied (*U* = 46, *Z* = −2.389, *p* = 0.016**, *r* = 0.452). This result indicates that there are significant differences in favor of the condition that used the controllers, which required less time.
+
+
+
+
+
+The paired-sample t test shows a significant effect of the technique on the total time spent in the manipulation mode [t=4.025, p=0.0007]. Participants spent significantly less time in the TB condition (24.5% less time).
+
+
+
+*Mann-Whitney U test was conducted to determine whether there is a difference in Math test scores between males and females. The results indicate non-significant difference between groups, [U = 53.00, p = .173]. In conclusion, We fail to reject the null hypothesis and conclude that there is no difference in the Math test score between males and females.*
+
+The error score is not normally distributed, so a non-parametric Mann-Whitney U test was performed to evaluate whether the error score differed by testing environment. The results indicated that participants with the 3DGraph (M = **1.765** did not retrieve information significantly better than group with Slides, U = 132, p = .901.
 
 ## **Design and Human-Computer Interaction Research Methods **(under construction)
 
