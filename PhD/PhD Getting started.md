@@ -293,7 +293,7 @@ The three kinds of research methods are not totally independent but highly inter
 
 ### (Non-)Randomised Controlled *VS. *Cohort *VS.* Case-Control *VS.* Cross-Sectional *VS.* Descriptive Study
 
-<img src="images/image-20250707102853405.png" alt="image-20250707102853405" style="zoom:33%;" />
+<img src="./Images/image-20250707102853405.png" alt="image-20250707102853405" style="zoom:33%;" />
 
 
 
@@ -301,7 +301,7 @@ The three kinds of research methods are not totally independent but highly inter
 
 ### Quality of Evidence
 
-<img src="images/image-20250707102655448.png" alt="image-20250707102655448" style="zoom:33%;" />
+<img src="./Images/image-20250707102655448.png" alt="image-20250707102655448" style="zoom:33%;" />
 
 ### Recommended readings
 
