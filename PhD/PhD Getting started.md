@@ -68,6 +68,7 @@ Below is a non-exhaustive list of international conferences publishing results i
 - [Conference on Computer-Supported Cooperative Work (CSCW)](https://cscw.acm.org/)
 - [European Conference on Cognitive Ergonomics (ECCE)](https://digitaleconomy.wales/ecce2023/)
 - [IEEE VIS](https://ieeevis.org/year/2024/welcome)
+- [IEEE Conference on AI and Extended & Virtual Reality AIxVR](https://aivr.science.uu.nl/)
 
 ### Engineering Design
 
@@ -83,6 +84,7 @@ Below is a non-exhaustive list of international conferences publishing results i
 
 - [Conference on Systems Engineering Research (CSER)](https://cser.info/)
 - [Annual IEEE International Systems Conference (SYSCON)]()
+- [IEEE International Symposium on Systems Engineering](https://2025.ieeeisse.org/)
 - [INCOSE International Symposium](https://www.incose.org/symp2022/home/what-is-the-international-symposium)
 - [Annual INCOSE International Workshop](https://www.incose.org/IW2023)
 - [INCOSE Human Systems Integration Workshop](https://www.incose.org/hsiws2022)
@@ -106,6 +108,7 @@ Below is a non-exhaustive list of international conferences publishing results i
 
 ## UGA-INP 
 
+- [Research Design]
 - [Scientific Methodology and Experimental Evaluation](https://mosig.imag.fr/SMEE/SMEE)
 - [Initiation to experiment design and research - VPMDIED1 (Phelma)](https://phelma.grenoble-inp.fr/fr/formation/initiation-to-experiment-design-and-research-vpmdied1)
 - [UE Basic statistics and Experimental Design (UFR Biologie)](https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-biologie-vegetale-KISWRTVR/parcours-planta-international-KISX7I4W/ue-basic-statistics-and-experimental-design-JDA5F0TU.html#)
@@ -183,6 +186,12 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 - [Plan de gestion de données selon le CNRS](https://doranum.fr/plan-gestion-donnees-dmp/le-plan-de-gestion-de-donnees-pas-a-pas_10_13143_t94g-9j96/)
 - [Plan de gestion de données selon l'UGA](https://scienceouverte.univ-grenoble-alpes.fr/donnees/organiser/pgd/)
 
+### Empirical research
+
+- What is an empirical evidence
+- Level of evidence
+- ...
+
 ## Computational Tools
 
 ### Scientific computing
@@ -214,25 +223,30 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 ## SPSS How-To
 
 - [How to get descriptive statistics across groups](https://www.youtube.com/watch?time_continue=10&v=VAcSCK6A1VI&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Ddesriptive%2Bstatistics%2Bspss%2Bgroups%26rlz%3D1C1GCEA_enFR1144FR1144%26oq%3Ddesriptive%2Bstatistics%2Bspss%2Bgroup&source_ve_path=Mjg2NjY)
+
 - [How to get boxplots across groups](https://www.youtube.com/watch?v=Tj61PgbJ1b4&t=7s&ab_channel=Statorials)
+
 - [How to perform an independent samples T-Test](https://www.youtube.com/watch?v=gHSE6paes2w&ab_channel=Statorials) 
+
 - [How to report results from independent samples t-test](https://www.youtube.com/watch?v=6RK3d5KIgMo&ab_channel=Statorials)
+
 - [How to report results from independent samples t-test in APA style](https://ezspss.com/reporting-an-independent-samples-t-test-from-spss-in-apa-style/)
+
 - [How to detect outliers with the Interquartile Range (IQR) and boxplot](https://www.youtube.com/watch?v=H1i8EUTFVBA&ab_channel=Dr.ToddGrande)
+
 - [How to check assumption of homogeneity of variance with Levene's test](https://www.youtube.com/watch?time_continue=567&v=4mkEZxgxMRA&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fsca_esv%3Dfc24ddbdfeda5bef%26rlz%3D1C1GCEA_enFR1144FR1144%26udm%3D7%26sxsrf%3DAHTn8zp823IaP1lfKRCNt7x8HwLYNAOHyQ&source_ve_path=MzY4NDIsMTM5MTE3LDM2ODQyLDM2ODQyLDI4NjY2)
-- 
+
+  
+
 - [How to check assumption of normally distributed with Shapiro-Wilk test (small sample sizes <50 samples) or Kolmogorov-Smirnov test](https://statistics.laerd.com/spss-tutorials/testing-for-normality-using-spss-statistics.php)
+
 - [Shapiro-Wilk test of normality for each level of independent variable](https://www.youtube.com/watch?v=iNrBDxMZWxg&ab_channel=Dr.ToddGrande)
+
 - [How to report a Mann-Whitney U test in APA Style](https://ezspss.com/how-to-report-a-mann-whitney-u-test-from-spss-in-apa-style/)
 
 TO sort:
 
-- 
 - https://www.youtube.com/watch?v=H1i8EUTFVBA&ab_channel=Dr.ToddGrande
-
-
-
-
 
 | Cohen's d | Effect size |
 | :-------: | :---------: |
@@ -257,13 +271,9 @@ The paired-sample t test shows a significant effect of the technique on the tota
 
 The error score is not normally distributed, so a non-parametric Mann-Whitney U test was performed to evaluate whether the error score differed by testing environment. The results indicated that participants with the 3DGraph (M = **1.765** did not retrieve information significantly better than group with Slides, U = 132, p = .901.
 
-## **Design and Human-Computer Interaction Research Methods **(under construction)
+# Types of Research (under construction)
 
-### Design Research *VS.* HCI Research
-
-Most of the tasks that examine complicated or learned skills or knowledge—such as typing, reading, composition, and problem solving—are less susceptible to learning effects.
-
-### Types of Research
+### Descriptive *VS.* Relational *VS.* Experimental Research
 
 Empirical investigation can be categorized into three groups:
 
@@ -275,11 +285,41 @@ Empirical investigation can be categorized into three groups:
 
 The three kinds of research methods are not totally independent but highly intertwined. Typical research projects include a combination of two or even three kinds of investigation. Descriptive investigations are often the first step of a research program, enabling researchers to identify interesting phenomena or events that establish the cornerstone of the research and identify future research directions. Relational investigations enable researchers or practitioners to discover connections between multiple events or variables. Ultimately, experimental research provides the opportunity to explore the fundamental causal relations. Each of the three kinds of investigation is of great importance in the process of scientific discovery.
 
-### Research Methods
+##  Exploratory *VS.* Confirmatory Research
 
-#### Controlled experiment
+| **Confirmatory Research**                                    | **Exploratory Research**                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| - Hypothesis testing<br/>- Results are held to the highest standards<br/>- Data-independent<br/>- Minimizes false positives<br/>- P-values retain diagnostic value<br/>- Inferences may be drawn to wider population | - Hypothesis generating<br/>- Results deserve to be replicated and confirmed<br/>- Data-dependent<br/>- Minimizes false negatives in order to find unexpected discoveries<br/>- P-values lose diagnostic value<br/>- Not useful for making inferences to any wider population |
 
-##### Research hypothesis
+### (Non-)Randomised Controlled *VS. *Cohort *VS.* Case-Control *VS.* Cross-Sectional *VS.* Descriptive Study
+
+<img src="images/image-20250707102853405.png" alt="image-20250707102853405" style="zoom:33%;" />
+
+
+
+## Evidence-Based Research
+
+### Quality of Evidence
+
+<img src="images/image-20250707102655448.png" alt="image-20250707102655448" style="zoom:33%;" />
+
+### Recommended readings
+
+> Grimes, D. A., & Schulz, K. F. (2002). An overview of clinical research: The lay of the land. *The Lancet*, *359*(9300), 57–61. https://doi.org/10.1016/S0140-6736(02)07283-5
+
+## Theory-Driven Research
+
+
+
+### Design Research *VS.* HCI Research
+
+Most of the tasks that examine complicated or learned skills or knowledge—such as typing, reading, composition, and problem solving—are less susceptible to learning effects.
+
+# **Design and Human-Computer Interaction Research Methods **(under construction)
+
+## Controlled experiment
+
+### Research hypothesis
 
 An experiment normally starts with a research hypothesis. A hypothesis is a precise problem statement that can be directly tested through an empirical investigation. Compared with a theory, a hypothesis is a smaller, more focused statement that can be examined by a single experiment. In contrast, a theory normally covers a larger scope and the establishment of a theory normally requires a sequence of empirical studies. A concrete research hypothesis lays the foundation of an experiment as well as the basis of statistical significance testing. An experiment normally has at least one null hypothesis and one alternative hypothesis. A null hypothesis typically states that there is no difference between experimental treatments. The alternative hypothesis is always a statement that is mutually exclusive with the null hypothesis. The goal of an experiment is to find statistical evidence to refute or nullify the null hypothesis in order to support the alternative hypothesis. Some experiments may have several pairs of null hypotheses and alternative hypotheses. A null and alternative hypotheses can be stated in classical statistical terms as follows:
 
@@ -297,7 +337,7 @@ There is no limit on the number of hypotheses that can be investigated in one ex
 
 In the early stages of a research project, researchers usually find themselves confronted with a broad and vague task. There are no well-defined research questions. There are no focused, testable research hypotheses. The common way to initiate a research project is to conduct exploratory descriptive investigations such as observations, interviews, or focus groups. Well-conducted descriptive investigations help researchers identify key research issues and come up with appropriate control groups to be manipulated as well as dependent variables to be measured
 
-##### Dependent and independent variables
+### Dependent and independent variables
 
 A well-defined hypothesis clearly states the **dependent and independent variables** of the study. Independent variables refer to the factors that the researchers are interested in studying or the possible “cause” of the change in the dependent variable. The term “independent” is used to suggest that the variable is independent of a participant's behavior. Dependent variables refer to the outcome or effect that the researchers are interested in. The term “dependent” is used to suggest that the variable is dependent on a participant's behavior or the changes in the independent variables. In experiments, the primary interest of researchers is to study the relationship between dependent variables and independent variables. More specifically, the researcher wants to find out whether and how changes in independent variables induce changes in dependent variables. A useful rule of thumb to differentiate dependent variables from independent variables is that independent variables are usually the treatments or conditions that the researchers can control while dependent variables are usually the outcomes that the researchers need to measure.
 
@@ -305,21 +345,21 @@ In the HCI field, **independent variables** are usually related to technologies,
 
 **Dependent variables** frequently measured can be categorized into five groups: efficiency, accuracy, subjective satisfaction, ease of learning and retention rate, and physical or cognitive demand. Efficiency describes how fast a task can be completed. Typical measures include time to complete a task and speed (e.g., words per minute, number of targets selected per minute). Accuracy describes the states in which the system or the user makes errors. The most frequently used accuracy measure is error rate. In HCI studies, efficiency and accuracy are not isolated but are highly related factors. There is usually a trade-off between efficiency and accuracy, meaning that, when the other factors are the same, achieving a higher speed will result in more errors and ensuring fewer errors will lower the speed. Consequently, any investigation that only measures one of the two factors misses a critical side of the picture. Subjective satisfaction describes the user's perceived satisfaction with the interaction experience. The data is normally collected using Likert scale ratings (e.g., numeric scales from 1 to 5) through questionnaires. Ease of learning and retention rate describe how quickly and how easily an individual can learn to use a new application or complete a new task and how long they retain the learned skills. Dependent variables in the fifth category describe the cognitive and physical demand that an application or a task exerts on an individual or how long an individual can interact with an application without significant fatigue. This category of measures is less studied but they play an important role in technology adoption.
 
-##### Components of an experiment
+### Components of an experiment
 
 After a research hypothesis is identified, the design of an experiment consists of three components: treatments, units, and assignment method. Treatments, or conditions, refer to the different techniques, devices, or procedures that we want to compare. Units are the objects to which we apply the experiment treatments. In the field of HCI research, the units are normally human subjects with specific characteristics, such as gender, age, or computing experience. Assignment method refers to the way in which the experimental units are assigned different treatments.
 
-##### Randomisation
+### Randomisation
 
 The power of experimental research lies in its ability to uncover causal relations. The major reason why experimental research can achieve this goal is because of complete randomization. Randomization refers to the random assignment of treatments to the experimental units or participants. In a totally randomized experiment, no one, including the investigators themselves, is able to predict the condition to which a participant is going to be assigned. Traditional randomization methods include tossing a coin, throwing dice, spinning a roulette wheel, or drawing capsules out of an urn. However, these types of randomization are rarely used in behavioral research and HCI studies nowadays. One method to randomize the selection of experimental conditions or other factors is the use of a random digit table. Nowadays, software-driven randomization is also commonly used among researchers
 and practitioners. A large number of randomization software resources are available online, some of them free of charge, such as the services offered at http://www.randomization.com. Randomization functions are also available in most of the commercial statistical software packages, such as SAS, SPSS, and SYSTAT. In a well-designed experiment, you will frequently find that you not only need to randomize the assignment of experiment conditions, but other factors as well. Counter balancing is commonly used in experiments to address the problem of systematic differences between successive conditions. In this case, researchers usually rotate the sequences of treatments or conditions through a “Latin Square Design”.
 
-##### Significance tests
+### Significance tests
 
 Almost all experimental investigations are analyzed and reported through significance tests. When you compare two large populations, there is
 no way to collect the data from every individual in the population. Therefore, you select a smaller group from the large population and use that smaller group to represent the entire population. This process is called sampling. Significance tests allow us to determine how confident we are that the results observed from the sampling population can be generalized to the entire population.
 
-##### Type I and type II errors
+### Type I and type II errors
 
 In technical terms, significance testing is a process in which a null hypothesis (H0) is contrasted with an alternative hypothesis (H1) to determine the likelihood that the null hypothesis is true. All significance tests are subject to the risk of Type I and Type II errors. A Type I error (also called an α error or a “false positive”) refers to the mistake of rejecting the null hypothesis when it is true and should not be rejected. A Type II error (also called a β error or a “false negative”) refers to the mistake of not rejecting the null hypothesis when it is false and should be rejected.
 
@@ -329,7 +369,7 @@ When designing experiments and analyzing data, you have to evaluate the risk of 
 However, in doing so, you increase the odds that you miss something that is in fact true, meaning that your research is more vulnerable to Type II errors.
 In experimental research, it is generally believed that Type I errors are worse than Type II errors. So a very low P value (0.05) is widely adopted to control the occurrence of Type I errors. If a significance test returns a value that is significant at P < 0.05, it means that the probability of making a Type I error is below 0.05. In other words, the probability of mistakenly rejecting a null hypothesis is below 0.05. In order to reduce Type II errors, it is generally suggested that you use a relatively large sample size so that the difference can be observed even when the effect size is relatively small.
 
-##### Experimental design
+### Experimental design
 
 Before we discuss specific experimental design methods, we need to differentiate three groups of studies: experiments, quasi-experiments, and nonexperiments. If a study involves multiple groups or conditions and the participants are randomly assigned to each condition, it is a true experiment. If a study involves multiple groups or conditions but the participants are not randomly assigned to different conditions, it is a quasi-experiment.
 Finally, if there is only one observation group or only one condition involved, it is a nonexperiment. True experiments possess the following characteristics:
@@ -383,7 +423,7 @@ After choosing a between-group design for an experiment, we need to take special
 effective approach to reduce the impact of the learning effect is to provide sufficient time for training. Research suggests that, for many types of tasks, the learning curve tends to be steeper during the initial interaction stages and flatter after that stage. People achieve quicker progress in learning during initial stages, followed by gradual lesser improvement with further practice. Therefore, providing sufficient training time for users to get acquainted with the system or the task greatly reduces the learning effect during the actual task sessions. Of course, training cannot completely eliminate the learning effect. It only reduces its impact. This approach, combined with the counterbalancing of task conditions, is widely adopted in HCI studies to control the impact of learning. To address the problem of fatigue caused by multiple experimental tasks, we need to design experiment tasks frugally, reducing the required number of tasks and shortening the experiment time whenever possible. It is generally suggested that the appropriate length of a single experiment session should be 60 to 90 minutes or shorter. When a session lasts longer than 90 minutes, the participant may get tired or frustrated. It is strongly suggested that a single session should definitely not last longer than 2 hours. During the experiment, the participant should be provided with opportunities to take breaks as needed. Interestingly, even when the experimenter encourages the participants to take breaks, the participants may not
 realize that they are getting tired and tend to ignore the suggestion to take a break. Therefore, some researchers find it helpful to force the participants to take a break during an experiment.
 
-##### Limitations of experimental research
+### Limitations of experimental research
 
 Experimental research methods originated from behavioral research and are largely rooted in the field of psychology. Experimental research has been a highly effective research approach and has led to many groundbreaking findings in behavioral science in the 20th century. Experimental research certainly plays an important role in the field of HCI. A large number of studies that explored fundamental interaction theories and models, such as Fitts' law, employed the approach of experimental research. To date, experimental research remains one of the most effective approaches to making findings that can be generalized to larger populations. On the other hand, experimental research also has notable limitations. It requires well-defined, testable hypotheses that consist of a limited number of dependent and independent variables. However, many problems that HCI researchers or practitioners face are not clearly defined or involve a large number of potentially influential factors. As a result, it is often very hard to construct a well-defined and testable hypothesis. This is especially true when studying an innovative interaction technique or a new user population and in the early development stage of a product.
 
@@ -394,36 +434,100 @@ Lab-based experiments may not be a good representation of users' typical interac
 However, it should be noted that the context of the Hawthorne studies and HCI-related experiments is significantly different. First, the Hawthorne studies were all longitudinal while most HCI experiments are not. Secondly, all the participants in the Hawthorne studies were experts in the tasks
 being observed while most HCI experiments observe novice users. Thirdly, the Hawthorne studies primarily focused on efficiency while HCI experiments value other important measures, such as error rates. Finally, the participants in the Hawthorne study had a vested interest in a successful outcome for the study since it was a point of contact between them and their senior managemet. In contrast, most HCI studies do not carry this motivation. Based on those reasons, we believe that the difference between the observed results of HCI experiments and the actual performance is not as big as that observed in the Hawthorne studies. But still, we should keep this potential risk in mind and take precautions to avoid or alleviate the impact of the possible Hawthorne effect.
 
-#### Observations
+### Quality Criteria
 
-#### Field studies
 
-#### Case studies
+
+### Exemplary papers
+
+
+
+## Observations
+
+### Quality Criteria
+
+
+
+### Exemplary papers
+
+
+
+## Field studies
+
+### Quality Criteria
+
+
+
+### Exemplary papers
+
+
+
+## Case studies
 
 The case study protocol should start with an introduction, including the questions and hypotheses. It should continue with details of data collection procedures, including criteria for choosing cases, contact information for relevant individuals; and logistical plans for each case, including time requirements, materials, and other necessary preparations. Specific questions and methods for each of the data sources should be included in the protocol. Finally, the protocol should include an outline of the report that will be one of the products of the case study.
 
 A case study protocol can be a powerful tool for establishing reliability. If your protocol is sufficiently detailed, you should be able to use it to conduct
 directly comparable investigations of multiple cases—the protocol guarantees that differences in procedures are not the cause of differences in your observations or results. Ideally, a research protocol will be clear enough that it can be used by other researchers to replicate your results.
 
-#### Surveys
+## Surveys
 
-#### Ethnography
-
-#### Focus group
+### Quality Criteria
 
 
 
-#### Interviews
+### Exemplary papers
+
+
+
+## Ethnography
+
+### Quality Criteria
+
+
+
+### Exemplary papers
+
+
+
+## Focus group
+
+### Quality Criteria
+
+
+
+### Exemplary papers
+
+
+
+## Interviews
 
 Exploratory interviews share much in common with case studies and ethnography, as they are all intended to provide an understanding of a complex and multifaceted situation.
 
 HCI researchers use interviews and focus groups to help build an understanding of the needs, practices, concerns, preferences, and attitudes of the people who might interact with a current or future computer system. In their focus and breadth, interviews share strengths with several other research techniques. Like usability studies and surveys, interviews often include quantitative results.
 
-##### 
+### Directed Interview
+
+### Semi-directed Interview
+
+### Allo-confrontation Interview
+
+### Auto-confrontation Interview
+
+
+
+> Mollo, V., & Falzon, P. (2004). Auto- and allo-confrontation as tools for reflective activities. *Applied Ergonomics*, *35*(6), 531–540. https://doi.org/10.1016/j.apergo.2004.06.003
+
+### Quality Criteria
+
+
+
+### Exemplary papers
 
 ##### 
 
-### Recommended readings
+##### 
+
+# Recommended readings
 
 *Want to learn more about design and HCI research methods? Here is a list of sources to start with!*
 
