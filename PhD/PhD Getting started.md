@@ -1,4 +1,4 @@
-# Design & Human-Computer Interaction Research Resources
+# Design Research Resources
 
 This collection of resources intends to support researchers, especially PhD students, in their daily research activities.  
 
