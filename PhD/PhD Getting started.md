@@ -151,6 +151,16 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 - [Developing classic systematic literature reviews to advance knowledge: Dos and don'ts](https://www-sciencedirect-com.sid2nomade-2.grenet.fr/science/article/pii/S0263237323001330?via%3Dihub)
 - [The art of writing literature review: What do we know and what do we need to know?](https://www-sciencedirect-com.sid2nomade-2.grenet.fr/science/article/pii/S0969593120300585?via%3Dihub)
 
+### Evidence (Gap) Map
+
+- [Model and Evidence Mapping Environment (MEME)](https://gitlab.com/inq-seeds/moved2github-boilerplate)
+
+### Evidence-Based Research
+
+
+
+
+
 ### Design Research and Validation Methods
 
 - DRM [link 1](https://link.springer.com/book/10.1007/978-1-84882-587-1), [link 2](https://edisciplinas.usp.br/pluginfile.php/6312877/mod_resource/content/2/Txtei0476%20DRM%202009.pdf),
@@ -293,7 +303,7 @@ The three kinds of research methods are not totally independent but highly inter
 
 ### (Non-)Randomised Controlled *VS. *Cohort *VS.* Case-Control *VS.* Cross-Sectional *VS.* Descriptive Study
 
-<img src="./Images/image-20250707102853405.png" alt="image-20250707102853405" style="zoom:33%;" />
+<img src="./Images/image-20250707102853405.png" alt="image-20250707102853405" style="zoom: 25%;" />
 
 
 
@@ -301,7 +311,7 @@ The three kinds of research methods are not totally independent but highly inter
 
 ### Quality of Evidence
 
-<img src="./Images/image-20250707102655448.png" alt="image-20250707102655448" style="zoom:33%;" />
+<img src="./Images/image-20250707102655448.png" alt="image-20250707102655448" style="zoom: 25%;" />
 
 ### Recommended readings
 
