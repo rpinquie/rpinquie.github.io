@@ -20,7 +20,7 @@ Below is a non-exhaustive list of Q1 journals publishing results in the discipli
 
 - [Computers in Industry](https://www.sciencedirect.com/journal/computers-in-industry)
 - [Engineering with Computers](https://www.springer.com/journal/366)
-- [Advanced Engineering Informatics]()
+- [Advanced Engineering Informatics](https://www.sciencedirect.com/journal/advanced-engineering-informatics)
 - [Journal of Computational Design and Engineering](https://academic.oup.com/jcde?login=false)
 - [Artificial Intelligence in Engineering Design, Analysis and Manufacturing](https://www.cambridge.org/core/journals/ai-edam)
 
@@ -86,6 +86,7 @@ Below is a non-exhaustive list of international conferences publishing results i
 - [Annual IEEE International Systems Conference (SYSCON)]()
 - [IEEE International Symposium on Systems Engineering](https://2025.ieeeisse.org/)
 - [INCOSE International Symposium](https://www.incose.org/symp2022/home/what-is-the-international-symposium)
+- [IEEE Systems of Systems Engineering Conference (SOSE)]([System of Systems Engineering Conference](https://sosengineering.org/2025/))
 - [Annual INCOSE International Workshop](https://www.incose.org/IW2023)
 - [INCOSE Human Systems Integration Workshop](https://www.incose.org/hsiws2022)
 - [Complex Systems Design & Management Conference (CSDM)](https://cesam.community/csdm-2024/)
@@ -146,6 +147,7 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 - [Writing a literature review](https://github.com/rpinquie/rpinquie.github.io/blob/master/PhD/biblio/Writing%20a%20literature%20review.pdf)
 - [PRISMA Systematic Literature Review](http://www.prisma-statement.org/)
 - [PRISMA Systematic Literature Review - Flowcharts](http://www.prisma-statement.org/PRISMAStatement/FlowDiagram)
+- [PRISMA-Scoping Review](https://www.prisma-statement.org/scoping)
 - [Systematic Literature Reviews: An Introduction](https://www.cambridge.org/core/journals/proceedings-of-the-international-conference-on-engineering-design/article/systematic-literature-reviews-an-introduction/40D4CEA7A7CC3FB6ED6233E79A0A2A1F)
 - [Frameworks for developing impactful systematic literature reviews and theory building: What, Why and How?](https://www-tandfonline-com.sid2nomade-2.grenet.fr/doi/epdf/10.1080/12460125.2023.2197700?needAccess=true)
 - [Developing classic systematic literature reviews to advance knowledge: Dos and don'ts](https://www-sciencedirect-com.sid2nomade-2.grenet.fr/science/article/pii/S0263237323001330?via%3Dihub)
