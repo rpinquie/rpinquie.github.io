@@ -56,7 +56,7 @@ Below is a non-exhaustive list of Q1 journals publishing results in the discipli
 
 Below is a non-exhaustive list of international conferences publishing results in the disciplines related to the research conducted by the G-SCOP Collaborative & Integrated Design research group, especially the ones supported by the technological platform VISION-R.
 
-### Human-Computer Interaction
+### Human-Computer Interaction & Data Visualisation
 
 - [Conference on Human Factors in Computing Systems (CHI)](https://dl.acm.org/doi/proceedings/10.1145/3491102)[International Conference on Human-Computer Interaction (HCI)](https://2023.hci.international/index.html)
 - [Special Interest Group on Computer-Human Interaction (SIGCHI)](https://sigchi.org/)
@@ -68,6 +68,7 @@ Below is a non-exhaustive list of international conferences publishing results i
 - [Conference on Computer-Supported Cooperative Work (CSCW)](https://cscw.acm.org/)
 - [European Conference on Cognitive Ergonomics (ECCE)](https://digitaleconomy.wales/ecce2023/)
 - [IEEE VIS](https://ieeevis.org/year/2024/welcome)
+- [Eurovis](https://eurovis.org.uk/)
 - [IEEE Conference on AI and Extended & Virtual Reality AIxVR](https://aivr.science.uu.nl/)
 
 ### Engineering Design
