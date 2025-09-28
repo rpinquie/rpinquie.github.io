@@ -532,7 +532,27 @@ HCI researchers use interviews and focus groups to help build an understanding o
 
 ### Quality Criteria
 
+- Completion time
+- Error rate/Accuracy
+- Retention rate
+- Efficiency = error rate/completion time
+- Effectiveness
+- Perceived cognitive load
+- Perceived user experience
+- Perceived usefulness
+- Perceived ease of use
+- Intention to use in the future
+- Usage fun
 
+## Biases
+
+- Learning effect: use a between-group design; change the dataset; 
+- Participants who get tired or bored: shorten the experimentation; include a break; 
+- Level of english/french
+- Level of expertise in the application domain 
+- Level of expertise in the technologies used: train participants and validate their level after the training
+- Sight problems
+- Maximum time to achieve the task: 
 
 ### Exemplary papers
 
