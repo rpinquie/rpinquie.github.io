@@ -15,6 +15,7 @@ Below is a non-exhaustive list of Q1 journals publishing results in the discipli
 - [International Journal on Human-Computer Interaction](https://www-tandfonline-com.sid2nomade-2.grenet.fr/journals/hihc20)
 - [ACM Transactions on Computer-Human Interaction](https://dl.acm.org/journal/tochi)
 - [Computers in Human Behavior](https://www.sciencedirect.com/journal/computers-in-human-behavior/about/aims-and-scope)
+- 
 
 ### Computer-Aided Design and Engineering
 
@@ -204,6 +205,11 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 - What is an empirical evidence
 - Level of evidence
 - ...
+
+### DataEthics:
+
+- [Grenoble Ethics Committee - CERGA ](chi qualitative research review)
+- 
 
 ## Computational Tools
 
