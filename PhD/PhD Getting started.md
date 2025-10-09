@@ -143,6 +143,11 @@ Below is a non-exhaustive list of international conferences publishing results i
 
 Below is a non-exhaustive list of methodological guidelines for conducting good academic design research, which attempts to understand or improve design research activities.
 
+### Empirical standards
+
+- [Empirical Standards for Software Engineering](https://www2.sigsoft.org/EmpiricalStandards/)
+- [Review a paper based on Empirical Standards for Software Engineering checklist](https://www2.sigsoft.org/EmpiricalStandards/tools/)
+
 ### Literature Review
 
 - [Right Review](https://rightreview.knowledgetranslation.net/)
@@ -333,9 +338,15 @@ The three kinds of research methods are not totally independent but highly inter
 
 - [Types of research evidence](https://dcj.nsw.gov.au/content/dcj/evidenceportal/evidence-portal-home/using-evidence/what-is-evidence.html#Types2)
 
+- [How do I assess the quality of research evidence](https://dcj.nsw.gov.au/documents/about-us/facsiar/evidence-hub/evidence-how-to-guides/assessing-the-quality-of-evidence.pdf)
+
 - [Types of evidence](https://dcj.nsw.gov.au/content/dcj/evidenceportal/evidence-portal-home/using-evidence/what-is-evidence.html#Types1)[Evidence-based practice in human-computer interaction and evidence maps](https://dl.acm.org/doi/10.1145/1083174.1083181)
 
 - [Critical Appraisal Checklists](https://casp-uk.net/casp-tools-checklists/)
+
+- [PRISMA 2020 checklist](https://www.prisma-statement.org/prisma-2020-checklist)
+
+- [AMSTAR checklist](https://amstar.ca/Amstar_Checklist.php)
 
 - [Critical Appraisal Tools from JBI](https://jbi.global/critical-appraisal-tools)
 - [Critical appraisal tools from Oxford centre for evidence-based medecide](https://www.cebm.ox.ac.uk/resources/ebm-tools/critical-appraisal-tools)
