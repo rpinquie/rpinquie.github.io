@@ -160,12 +160,6 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 
 - [Model and Evidence Mapping Environment (MEME)](https://gitlab.com/inq-seeds/moved2github-boilerplate)
 
-### Evidence-Based Research
-
-
-
-
-
 ### Design Research and Validation Methods
 
 - DRM [link 1](https://link.springer.com/book/10.1007/978-1-84882-587-1), [link 2](https://edisciplinas.usp.br/pluginfile.php/6312877/mod_resource/content/2/Txtei0476%20DRM%202009.pdf),
@@ -204,12 +198,6 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 - [Science Ouverte Université Grenoble Alpes](https://scienceouverte.univ-grenoble-alpes.fr/)
 - [Plan de gestion de données selon le CNRS](https://doranum.fr/plan-gestion-donnees-dmp/le-plan-de-gestion-de-donnees-pas-a-pas_10_13143_t94g-9j96/)
 - [Plan de gestion de données selon l'UGA](https://scienceouverte.univ-grenoble-alpes.fr/donnees/organiser/pgd/)
-
-### Empirical research
-
-- What is an empirical evidence
-- Level of evidence
-- ...
 
 ### Ethics, RGPD...:
 
@@ -339,9 +327,19 @@ The three kinds of research methods are not totally independent but highly inter
 
 ## Evidence-Based Research
 
-### Quality of Evidence
+- [What is an evidence hierarchy](https://dcj.nsw.gov.au/documents/about-us/facsiar/evidence-hub/evidence-how-to-guides/what-is-an-evidence-hierarchy.pdf)
 
-<img src="./Images/image-20250707102655448.png" alt="image-20250707102655448" style="zoom: 25%;" />
+  <img src="./Images/image-20250707102655448.png" alt="image-20250707102655448" style="zoom: 25%;" />
+
+- [Types of research evidence](https://dcj.nsw.gov.au/content/dcj/evidenceportal/evidence-portal-home/using-evidence/what-is-evidence.html#Types2)
+
+- [Types of evidence](https://dcj.nsw.gov.au/content/dcj/evidenceportal/evidence-portal-home/using-evidence/what-is-evidence.html#Types1)[Evidence-based practice in human-computer interaction and evidence maps](https://dl.acm.org/doi/10.1145/1083174.1083181)
+
+- [Critical Appraisal Checklists](https://casp-uk.net/casp-tools-checklists/)
+
+- [Critical Appraisal Tools from JBI](https://jbi.global/critical-appraisal-tools)
+- [Critical appraisal tools from Oxford centre for evidence-based medecide](https://www.cebm.ox.ac.uk/resources/ebm-tools/critical-appraisal-tools)
+- [NSW evidence portal](https://dcj.nsw.gov.au/content/dcj/evidenceportal/evidence-portal-home.html)
 
 ### Recommended readings
 
