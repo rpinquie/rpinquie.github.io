@@ -145,7 +145,7 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 
 ### Empirical standards
 
-- [Empirical Standards for Software Engineering](https://www2.sigsoft.org/EmpiricalStandards/)
+- [Empirical Standards for Software Engineering](https://www2.sigsoft.org/EmpiricalStandards/docs/standards)
 - [Review a paper based on Empirical Standards for Software Engineering checklist](https://www2.sigsoft.org/EmpiricalStandards/tools/)
 
 ### Literature Review
