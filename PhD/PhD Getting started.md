@@ -88,7 +88,7 @@ Below is a non-exhaustive list of international conferences publishing results i
 - [Annual IEEE International Systems Conference (SYSCON)]()
 - [IEEE International Symposium on Systems Engineering](https://2025.ieeeisse.org/)
 - [INCOSE International Symposium](https://www.incose.org/symp2022/home/what-is-the-international-symposium)
-- [IEEE Systems of Systems Engineering Conference (SOSE)]([System of Systems Engineering Conference](https://sosengineering.org/2025/))
+- [IEEE Systems of Systems Engineering Conference (SOSE)](https://sosengineering.org/2025/)
 - [Annual INCOSE International Workshop](https://www.incose.org/IW2023)
 - [INCOSE Human Systems Integration Workshop](https://www.incose.org/hsiws2022)
 - [Complex Systems Design & Management Conference (CSDM)](https://cesam.community/csdm-2024/)
