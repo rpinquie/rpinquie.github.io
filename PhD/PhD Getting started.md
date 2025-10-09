@@ -147,6 +147,7 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 
 - [Empirical Standards for Software Engineering](https://www2.sigsoft.org/EmpiricalStandards/docs/standards)
 - [Review a paper based on Empirical Standards for Software Engineering checklist](https://www2.sigsoft.org/EmpiricalStandards/tools/)
+- [Journal Article Reporting Standards (JARS)](https://apastyle.apa.org/jars)
 
 ### Literature Review
 
@@ -191,6 +192,7 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 - [English writing](https://github.com/rpinquie/rpinquie.github.io/tree/master/PhD/biblio/English%20writing.pdf)
 - [Citing bibliographic references](https://github.com/rpinquie/rpinquie.github.io/tree/master/PhD/biblio/Citing%20bibliographic%20references.pdf)
 - [Grammarly](https://app.grammarly.com/)
+- [Journal Article Reporting Standards (JARS)](https://apastyle.apa.org/jars)
 
 ### Peer review
 
@@ -351,6 +353,7 @@ The three kinds of research methods are not totally independent but highly inter
 - [Critical Appraisal Tools from JBI](https://jbi.global/critical-appraisal-tools)
 - [Critical appraisal tools from Oxford centre for evidence-based medecide](https://www.cebm.ox.ac.uk/resources/ebm-tools/critical-appraisal-tools)
 - [NSW evidence portal](https://dcj.nsw.gov.au/content/dcj/evidenceportal/evidence-portal-home.html)
+- [Guide to evidence-based clearinghouses](https://www.air.org/sites/default/files/Evidence-Clearinghouse-Guide-508.pdf)
 
 ### Recommended readings
 
