@@ -192,6 +192,10 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 - [Citing bibliographic references](https://github.com/rpinquie/rpinquie.github.io/tree/master/PhD/biblio/Citing%20bibliographic%20references.pdf)
 - [Grammarly](https://app.grammarly.com/)
 
+### Peer review
+
+- [Reviewer Critiques (Qualitative Methods) and How to Respond to Them ](biblio/Reviewer Critiques (Qualitative Methods) and How to Respond to Them.pdf)
+
 ### Open Science
 
 - [Recherche Data Gouv](https://entrepot.recherche.data.gouv.fr/loginpage.xhtml;jsessionid=3f3e86caa237b27b725ff95e69ca?redirectPage=%2Fdataverseuser.xhtml)
@@ -206,12 +210,32 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 - Level of evidence
 - ...
 
-### DataEthics:
+### Ethics, RGPD...:
 
-- [Grenoble Ethics Committee - CERGA ](chi qualitative research review)
-- 
+- [Grenoble Ethics Committee - CERGA ](https://www.univ-grenoble-alpes.fr/universite/engagements/ethique-et-deontologie/comite-d-ethique-pour-la-recherche-grenoble-alpes/le-comite-d-ethique-pour-la-recherche-grenoble-alpes-cerga--1240768.kjsp)
+- [Formation RGPD : Les enjeux dans le cadre de la recherche hors santé](https://ficel.univ-grenoble-alpes.fr/index.php/formation/view?id=6260)
+- [MOOC RGPD](https://atelier-rgpd.cnil.fr/)
+- [MOOC Research Integrity in Scientific Professions](https://www.fun-mooc.fr/en/courses/research-integrity-scientific-professions/)
+- [Charte nationale de déontologie des métiers de la recherche](https://wp.u-picardie.fr/cerni/wp-content/uploads/sites/38/2020/04/charte_nationale_deontologie_metiers_de_la_R_915476.pdf)
+- [Code de conduite européen pour l'intégrité en recherche](https://wp.u-picardie.fr/cerni/wp-content/uploads/sites/38/2020/04/FR_ALLEA_Code_de_conduite_europeen_pour_lintegrite_en_recherche.pdf)
+- [CNRS Pratiquer une recherche intègre et responsable](https://wp.u-picardie.fr/cerni/wp-content/uploads/sites/38/2020/05/GUIDE-2017-FR-1_compressed.pdf)
+- [PLATeforme d'Innovation et de Prêt à Usage Scientifique](https://platipus.univ-grenoble-alpes.fr/)
 
-## Computational Tools
+## Research Data Collection & Analysis Software
+
+#### Platipus
+
+- [PLATeforme d'Innovation et de Prêt à Usage Scientifique](https://platipus.univ-grenoble-alpes.fr/) de l'UGA
+- Restrictions PLATIPUS : 
+  - Abonnements Pavlovia et Qualtrics limités à des personnes ayant un email @univ-grenoble-alpes.fr ou @etu.univ-grenoble-alpes.fr 
+  - Le recours à Qualtrics nécessite une participation financière du labo (ou sur budget de projets) à l'abonnement et l'usage doit être limité à des études ne permettant pas d'utiliser d'autres outils d'enquêtes en ligne
+  - [Idem pour SPHERE](https://platipus.univ-grenoble-alpes.fr/?p=3165) (montant de l'abonnement à partager en laboratoires utilisateurs de l'outil)
+- [Formation RGPD : Les enjeux dans le cadre de la recherche hors santé](https://ficel.univ-grenoble-alpes.fr/index.php/formation/view?id=6260)
+- [Charte PLATIPUS](https://platipus.univ-grenoble-alpes.fr/?page_id=43)
+- [Formulaire d'inscription d'une étude sur PLATIPUS](https://platipus.univ-grenoble-alpes.fr/?page_id=33)
+- [Date des permanences mensuelles (DPO, Data et PLATIPUS) organisées par PLATIPUS](https://platipus.univ-grenoble-alpes.fr/?p=2595)
+- Platipus peut aussi organiser des formations / co-acheter du matériel, logiciels, abonnements / s'impliquer plus particulièrement dans des projets de recherche..... à discuter au cas par cas.
+- Contact G-SCOP: romain.pinquie[at]grenoble-inp.fr
 
 ### Scientific computing
 
@@ -237,8 +261,6 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 - [ActoGraph](https://www.actograph.io/fr/software/description)
 - [**B**ehavioral **O**bservation **R**esearch **I**nteractive **S**oftware (BORIS)](https://www.boris.unito.it/)
 
-
-
 ## SPSS How-To
 
 - [How to get descriptive statistics across groups](https://www.youtube.com/watch?time_continue=10&v=VAcSCK6A1VI&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Ddesriptive%2Bstatistics%2Bspss%2Bgroups%26rlz%3D1C1GCEA_enFR1144FR1144%26oq%3Ddesriptive%2Bstatistics%2Bspss%2Bgroup&source_ve_path=Mjg2NjY)
@@ -254,8 +276,6 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 - [How to detect outliers with the Interquartile Range (IQR) and boxplot](https://www.youtube.com/watch?v=H1i8EUTFVBA&ab_channel=Dr.ToddGrande)
 
 - [How to check assumption of homogeneity of variance with Levene's test](https://www.youtube.com/watch?time_continue=567&v=4mkEZxgxMRA&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fsca_esv%3Dfc24ddbdfeda5bef%26rlz%3D1C1GCEA_enFR1144FR1144%26udm%3D7%26sxsrf%3DAHTn8zp823IaP1lfKRCNt7x8HwLYNAOHyQ&source_ve_path=MzY4NDIsMTM5MTE3LDM2ODQyLDM2ODQyLDI4NjY2)
-
-  
 
 - [How to check assumption of normally distributed with Shapiro-Wilk test (small sample sizes <50 samples) or Kolmogorov-Smirnov test](https://statistics.laerd.com/spss-tutorials/testing-for-normality-using-spss-statistics.php)
 
@@ -573,7 +593,8 @@ HCI researchers use interviews and focus groups to help build an understanding o
 - [Research Methods for Human-Computer Interaction](https://www.cambridge.org/core/books/research-methods-for-humancomputer-interaction/43E95E979117C42DF822673D098474D2)
 - [Research Methods in Human Computer Interaction](https://www.sciencedirect.com/book/9780128053904/research-methods-in-human-computer-interaction)
 - [Doing Better Statistics in Human-Computer Interaction](https://www.cambridge.org/core/books/doing-better-statistics-in-humancomputer-interaction/1D19B5419225C05D6E4FE189A345BDB8)
-- Reliability and Inter-rater Reliability in Qualitative Research: Norms and Guidelines for CSCW and HCI Practice
+- [Reliability and Inter-rater Reliability in Qualitative Research: Norms and Guidelines for CSCW and HCI Practice](https://dl.acm.org/doi/10.1145/3359174)
+- [Comparative Structured Observation](https://ex-situ.lri.fr/workshops/comparative-structured-observation#course-handouts)
 
 *Want to learn more about the validation in design research? Here is a list of sources to start with!*
 
