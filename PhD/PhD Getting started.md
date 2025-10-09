@@ -111,7 +111,7 @@ Below is a non-exhaustive list of international conferences publishing results i
 
 ## UGA-INP 
 
-- [Research Design]
+- [Research Design in Industrial Engineering](https://genie-industriel.grenoble-inp.fr/fr/formation/ue-research-design-in-industrial-engineering-wgurese4-1)
 - [Scientific Methodology and Experimental Evaluation](https://mosig.imag.fr/SMEE/SMEE)
 - [Initiation to experiment design and research - VPMDIED1 (Phelma)](https://phelma.grenoble-inp.fr/fr/formation/initiation-to-experiment-design-and-research-vpmdied1)
 - [UE Basic statistics and Experimental Design (UFR Biologie)](https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-biologie-vegetale-KISWRTVR/parcours-planta-international-KISX7I4W/ue-basic-statistics-and-experimental-design-JDA5F0TU.html#)
