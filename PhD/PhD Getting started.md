@@ -145,6 +145,7 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 
 ### Literature Review
 
+- [Right Review](https://rightreview.knowledgetranslation.net/)
 - [Faire une revue de la littérature : pourquoi et comment ?](https://hal.science/hal-00657381/file/Pages_15_A_27_-_Dumez_H._-_2011_-_Faire_une_revue_de_littA_rature._-_Libellio_vol._7_nA_2.pdf)
 - [Writing a literature review](https://github.com/rpinquie/rpinquie.github.io/blob/master/PhD/biblio/Writing%20a%20literature%20review.pdf)
 - [PRISMA Systematic Literature Review](http://www.prisma-statement.org/)
@@ -194,7 +195,7 @@ Below is a non-exhaustive list of methodological guidelines for conducting good 
 
 ### Peer review
 
-- [Reviewer Critiques (Qualitative Methods) and How to Respond to Them ](biblio/Reviewer Critiques (Qualitative Methods) and How to Respond to Them.pdf)
+- [Reviewer Critiques (Qualitative Methods) and How to Respond to Them ](https://github.com/rpinquie/rpinquie.github.io/blob/master/PhD/biblio/Reviewer%20Critiques%20(Qualitative%20Methods)%20and%20How%20to%20Respond%20to%20Them.pdf)
 
 ### Open Science
 
