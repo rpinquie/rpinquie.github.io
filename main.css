@@ -100,14 +100,11 @@ h3 {
 }
 
 a {
-    color: rgb(76,119,153);
+    color: #d63384;
 }
 a:hover {
     color: rgb(150,50,50);
 }
-
-
-
 
 /** MENU */ 
 
@@ -156,10 +153,6 @@ nav {
     flex-direction: column;
 }
 
-
-
-
-
 .hamburger {
     margin-top: 5px;
     display: none;
@@ -175,15 +168,9 @@ nav {
 	margin: 5px;
 }
 
-
-
-
-
-
 .menu-content a:hover{
     color: black;
 }
-
 
 .menu-wrapper {
     display:block;
@@ -235,11 +222,6 @@ nav {
     }
 
 }
-
-
-
-
-
 
 /** Classes */
 
