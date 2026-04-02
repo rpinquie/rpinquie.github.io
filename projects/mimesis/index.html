@@ -1,157 +1,497 @@
 <!DOCTYPE html>
-<html>
-  <head>
+<html lang="en" class="scroll-smooth">
+<head>
     <meta charset="utf-8">
-    <meta name="generator" content="GitLab Pages">
-    <title>MIMESIS'Lab</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MIMESIS Joint Research Lab</title>
     
-	<link rel="stylesheet" href="style.css">
-	<link rel="stylesheet"
-          href="https://fonts.googleapis.com/css?family=Montserrat">
-  </head>
-  <br>
-  <body>
-	<img src="images/MIMESIS.png" width=100% height=auto>
-	
-	<!-- <a href="https://gricad-gitlab.univ-grenoble-alpes.fr/vision-r-public/vrgraphvisualization" target="_blanc"><img src="../images/github.png" alt="github link" width="auto" height="10%"></a> !-->
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- FontAwesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-	<p style="line-height: 200%"><b> <a href="https://g-scop.grenoble-inp.fr/" target="_blanc">G-SCOP – UGA/CNRS research lab</a> has teamed up with <a href="https://sky-real.com/fr/" target="_blanc">SkyReal</a> to launch the MIMESIS joint research lab for advancing human-centered computing in model-based systems engineering. The 5-year research lab (13/10/2024-12/05/2028) funded by the <a href="https://anr.fr/" target="_blanc">French National Research Agency</a> provides a framework for exploratory joint research activities to better understand how humans interact with different types of digital design information, and to invent collaborative, highly interactive and visually rich 3D systems modelling user interfaces by mixing three interaction paradigms: Computer-as-tool (HCI) to extend engineers capabilities, Computer-as-partner (AI) to delegate tasks to artificial agents, and Computer-as-medium (CSCW) to communicate with teammates. If you want to keep informed or contribute to the maturation of our demonstrators, join our <a href="https://www.linkedin.com/company/mimesis-joint-research-lab/" target="_blanc">LinkedIn community</a></b></p>
-		
-	<section id="news"><h2>News</h2>
-		<p>- 08/07/2024 - Presentation of a research paper "<i>Exploring Model-Based Systems Architecting Digital Threads in Virtual Reality</i>" at the PLM International Conference, Bangkok, Thailand</p>
-		<p>- 14/11/2023 - INCOSE French Chapter Workshop on Virtual Reality for Model-Based Systems Engineering</p>
-		<p>- 13/10/2023 - ANR Joint Research MIMESIS'Lab official kick off</p>
-	</section>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Montserrat', 'sans-serif'],
+                    },
+                    colors: {
+                        brand: {
+                            50: '#f0f9ff',
+                            100: '#e0f2fe',
+                            500: '#0ea5e9',
+                            600: '#0284c7',
+                            800: '#075985',
+                            900: '#0c4a6e',
+                            950: '#082f49',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        /* Custom scrollbar */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f5f9; }
+        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800 antialiased selection:bg-brand-500 selection:text-white">
 
-    <section id="people"><h2>Research axis 1: Review Model-Based System Architecture</h2>
-		<ul style="list-style-type:square><li><section id="people"><h3>Videos</h3></li></ul>
-			<table>
-				<tr>
-					<td>
-						<iframe width="370" height="200" src="https://www.youtube.com/embed/Dhwkm1sS_5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-					</td>
-					<td>
-						<iframe width="370" height="200" src="https://www.youtube.com/embed/SrlNzjydVnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-					</td>
-					<td>
-						<iframe width="370" height="200" src="https://www.youtube.com/embed/ixq0aVFDPZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-					</td>
-					<td>
-						<iframe width="370" height="200" src="https://www.youtube.com/embed/7heSoT16pLo?si=RgwiFp4CEFu80cvu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-					</td>
-				</tr>
-			</table>
-		</section>
-		
-		<ul style="list-style-type:square><li><section id="publications"><h3>Publications</h3></li></ul>
-		 
-			<p>S. C. Medina Galvis, R. Pinquié, B. Paterne (2024) Exploring model-based systems architecting digital threads in virtual reality. IFIP 21st International Conference on Product Lifecycle Management (PLM), Bangkok, Thailand, July 7-10, 2024.  <a href="TBD" target="_blanc"> TBD</a></p>
-			
-			<p>V. Romero (2022) Un environnement virtuel immersif, interactif et collaboratif pour les revues de conception basées sur les modèles. Doctoral dissertation, Université Grenoble Alpes <a href="https://theses.hal.science/tel-04048678" target="_blanc"> https://theses.hal.science/tel-04048678</a></p>
-			
-			<p>V. Romero, R. Pinquié, F Noël. (2022) An open benchmark exercise for model-based design reviews. In: Noël, F., Nyffenegger, F., Rivest, L., Bouras, A. (eds) Product Lifecycle Management. PLM in Transition Times: The Place of Humans and Transformative Technologies. PLM 2022. IFIP Advances in Information and Communication Technology, vol 667. Springer, Cham. DOI: <a href="https://doi.org/10.1007/978-3-031-25182-5_18" target="_blanc"> https://doi.org/10.1007/978-3-031-25182-5_18</a></p>
+    <!-- Navigation -->
+    <nav class="fixed w-full z-50 bg-white/90 backdrop-blur-md border-b border-slate-200 shadow-sm transition-all duration-300">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-20 items-center">
+                <div class="flex-shrink-0 flex items-center gap-3">
+                    <img src="images/MIMESIS.png" alt="MIMESIS Logo" class="h-12 object-contain" onerror="this.src='https://via.placeholder.com/150x50?text=MIMESIS+Logo'">
+                    <span class="font-bold text-xl text-brand-900 tracking-tight hidden md:block">MIMESIS'Lab</span>
+                </div>
+                <div class="hidden md:flex space-x-8">
+                    <a href="#about" class="text-sm font-semibold text-slate-600 hover:text-brand-600 transition-colors">About</a>
+                    <a href="#expertise" class="text-sm font-semibold text-slate-600 hover:text-brand-600 transition-colors">Expertise</a>
+                    <a href="#research" class="text-sm font-semibold text-slate-600 hover:text-brand-600 transition-colors">Research Axes</a>
+                    <a href="#gallery" class="text-sm font-semibold text-slate-600 hover:text-brand-600 transition-colors">Gallery</a>
+                    <a href="#publications" class="text-sm font-semibold text-slate-600 hover:text-brand-600 transition-colors">Publications</a>
+                    <a href="#team" class="text-sm font-semibold text-slate-600 hover:text-brand-600 transition-colors">Team</a>
+                </div>
+                <!-- Mobile menu button -->
+                <div class="md:hidden flex items-center">
+                    <button id="mobile-menu-btn" class="text-slate-600 hover:text-brand-600 focus:outline-none">
+                        <i class="fa-solid fa-bars text-2xl"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <!-- Mobile Menu -->
+        <div id="mobile-menu" class="hidden md:hidden bg-white border-t border-slate-100">
+            <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3 flex flex-col">
+                <a href="#about" class="px-3 py-2 text-base font-medium text-slate-700 hover:text-brand-600 hover:bg-slate-50">About</a>
+                <a href="#expertise" class="px-3 py-2 text-base font-medium text-slate-700 hover:text-brand-600 hover:bg-slate-50">Expertise</a>
+                <a href="#research" class="px-3 py-2 text-base font-medium text-slate-700 hover:text-brand-600 hover:bg-slate-50">Research Axes</a>
+                <a href="#gallery" class="px-3 py-2 text-base font-medium text-slate-700 hover:text-brand-600 hover:bg-slate-50">Gallery</a>
+                <a href="#team" class="px-3 py-2 text-base font-medium text-slate-700 hover:text-brand-600 hover:bg-slate-50">Team</a>
+            </div>
+        </div>
+    </nav>
 
-			<p>V. Romero, R. Pinquié, F. Noël. (2022) A user-centric computer-aided verification process in a virtuality-reality continuum. In Computers in Industry, Vol. 140, 2022. DOI: <a href="https://doi.org/10.1016/j.compind.2022.103678" target="_blanc">https://doi.org/10.1016/j.compind.2022.103678</a></p>
+    <!-- Hero Section -->
+    <header class="relative pt-32 pb-20 lg:pt-48 lg:pb-32 overflow-hidden bg-brand-950">
+        <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1614729939124-032f0b56c9ce?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80')] bg-cover bg-center opacity-20 mix-blend-overlay"></div>
+        <div class="absolute inset-0 bg-gradient-to-t from-brand-950 via-brand-900/80 to-transparent"></div>
+        
+        <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-brand-800/50 border border-brand-500/30 text-brand-100 text-sm font-medium mb-8 backdrop-blur-sm">
+                <span class="flex h-2 w-2 rounded-full bg-brand-400 animate-pulse"></span>
+                ANR Joint Research Lab (2023 - 2028)
+            </div>
+            <h1 class="text-4xl md:text-6xl lg:text-7xl font-extrabold text-white tracking-tight mb-6 leading-tight">
+                Advancing <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-400 to-cyan-300">Human-Centric</span> <br class="hidden md:block"> Systems Engineering
+            </h1>
+            <p class="mt-4 max-w-2xl mx-auto text-xl text-brand-100 font-light leading-relaxed">
+                Exploring the potential of the Industrial Metaverse through Virtual Reality, Artificial Intelligence, and highly interactive 3D visualizations.
+            </p>
+            <div class="mt-10 flex flex-col sm:flex-row justify-center gap-4">
+                <a href="#about" class="px-8 py-3.5 border border-transparent text-base font-semibold rounded-lg text-brand-900 bg-white hover:bg-gray-50 transition-all shadow-lg hover:shadow-xl">
+                    Discover Our Vision
+                </a>
+                <a href="https://www.linkedin.com/company/mimesis-joint-research-lab/" target="_blank" class="px-8 py-3.5 border border-brand-400/50 text-base font-semibold rounded-lg text-white bg-brand-900/50 hover:bg-brand-800 backdrop-blur-sm transition-all flex items-center justify-center gap-2">
+                    <i class="fa-brands fa-linkedin text-xl"></i> Join the Community
+                </a>
+            </div>
+        </div>
+    </header>
 
-			<p>R. Pinquié, V. Romero, F. Noël. (2022) Survey of model-based design review: practices and challenges. 17th International Design Conference, Cavtat, Croatia, May 23-26, 2022. DOI: <a href="https://doi.org/10.1007/978-3-031-25182-5_23" target="_blanc">https://doi.org/10.1017/pds.2022.197 </a></p>
-			
-			<p>V. Romero, R. Pinquié, F. Noël. (2021) An immersive virtual environment for reviewing model-centric designs. 23rd International Conference on Engineering Design (ICED), Gothenburg, Sweden, August 16-20, 2021. DOI: <a href="https://doi.org/10.1017/pds.2021.45" target="_blanc">https://doi.org/10.1017/pds.2021.45</a></p>
-			
-		</section>
-	</section>
-	
-	
-	<section id="people"><h2>Research axis 2: Design of Model-Based System Architecture</h2>
+    <!-- The Vision (Generic Info for Non-Experts) -->
+    <section id="about" class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+                <div>
+                    <h2 class="text-sm font-bold tracking-widest text-brand-600 uppercase mb-3">The Vision</h2>
+                    <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-6">Simplifying the Complexity of Modern Engineering</h3>
+                    <p class="text-lg text-slate-600 mb-6 leading-relaxed">
+                        Building the technologies of tomorrow—like spacecraft, sustainable energy grids, or advanced manufacturing plants—is incredibly complex. Engineers typically rely on highly technical diagrams and spreadsheets that are difficult for non-experts to understand.
+                    </p>
+                    <p class="text-lg text-slate-600 mb-6 leading-relaxed">
+                        <strong>MIMESIS'Lab</strong> is changing that. We are a joint research laboratory uniting academic excellence (G-SCOP, UGA, CNRS) with industrial innovation (SkyReal). 
+                    </p>
+                    <p class="text-lg text-slate-600 leading-relaxed">
+                        By leveraging the <strong>Industrial Metaverse</strong>, we transform abstract data into intuitive, immersive 3D environments. We use Virtual Reality (VR) to visualize systems, Artificial Intelligence (AI) to assist decision-making, and collaborative tools to bring global teams together in the same virtual room.
+                    </p>
+                </div>
+                <div class="relative">
+                    <div class="aspect-w-16 aspect-h-9 rounded-2xl overflow-hidden shadow-2xl">
+                        <img src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Engineers collaborating in VR" class="object-cover w-full h-full">
+                    </div>
+                    <div class="absolute -bottom-6 -left-6 bg-white p-6 rounded-xl shadow-xl max-w-xs border border-slate-100 hidden md:block">
+                        <div class="flex items-center gap-4 mb-2">
+                            <div class="bg-brand-100 p-3 rounded-lg text-brand-600"><i class="fa-solid fa-handshake"></i></div>
+                            <h4 class="font-bold text-slate-900">Joint Initiative</h4>
+                        </div>
+                        <p class="text-sm text-slate-500">A 5-year partnership bridging academic research and industrial reality.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
-		<ul style="list-style-type:square><li><section id="people"><h3>Videos</h3></li></ul>
-			<table>
-				<tr>
-					<td>
-						<iframe width="400" height="200" src="https://www.youtube.com/embed/TtGoCfPBctA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-					</td>
-					<td>
-						<iframe width="400" height="200" src="https://www.youtube.com/embed/GAmxpbcBNYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-					</td>
-				</tr>
-			</table>
-		</section>
-		
-		<ul style="list-style-type:square><li><section id="publications"><h3>Publications</h3></li></ul>
+    <!-- The Science (Expert Info) -->
+    <section id="expertise" class="py-20 bg-slate-50 border-y border-slate-200">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center max-w-3xl mx-auto mb-16">
+                <h2 class="text-sm font-bold tracking-widest text-brand-600 uppercase mb-3">The Science</h2>
+                <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-6">Overcoming MBSE Adoption Barriers</h3>
+                <p class="text-lg text-slate-600">
+                    Model-Based Systems Engineering (MBSE) is hindered by esoteric diagrams, rigid tools, and a lack of visual syntax that alienates non-specialist stakeholders. We tackle these challenges by mixing three interaction paradigms:
+                </p>
+            </div>
 
-			<p>H. Wang (2024) Exploring the potential of virtual reality for model-based systems architecting. Doctoral dissertation, Université Grenoble Alpes <a href="TBD" target="_blanc">https://theses.hal.science/tel-04718368v1/</a></p>
-			
-			<p>R. Pinquié, H. Wang, F. Noël (2023) Human-centric co-design of model-based system architecture. 33rd CIRP Design Conference, Sydney, Australia, May 17-19, 2023. In Procedia CIRP. Vol. 109, pp. 472-477, 2023. DOI: <a href="https://doi.org/10.1016/j.procir.2023.02.131"target="_blanc">https://doi.org/10.1016/j.procir.2023.02.131</a></p>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <!-- Paradigm 1 -->
+                <div class="bg-white p-8 rounded-2xl shadow-sm hover:shadow-md transition-shadow border border-slate-100">
+                    <div class="w-14 h-14 bg-blue-100 rounded-xl flex items-center justify-center text-blue-600 text-2xl mb-6">
+                        <i class="fa-solid fa-screwdriver-wrench"></i>
+                    </div>
+                    <h4 class="text-xl font-bold text-slate-900 mb-3">Computer-as-Tool (HCI)</h4>
+                    <p class="text-slate-600 text-sm leading-relaxed">
+                        Extending engineers' capabilities through intuitive Human-Computer Interaction. We translate highly codified 2D SysML/UML diagrams into visually rich, 3D iconic and symbolic representations with high semantic transparency.
+                    </p>
+                </div>
+                <!-- Paradigm 2 -->
+                <div class="bg-white p-8 rounded-2xl shadow-sm hover:shadow-md transition-shadow border border-slate-100">
+                    <div class="w-14 h-14 bg-purple-100 rounded-xl flex items-center justify-center text-purple-600 text-2xl mb-6">
+                        <i class="fa-solid fa-robot"></i>
+                    </div>
+                    <h4 class="text-xl font-bold text-slate-900 mb-3">Computer-as-Partner (AI)</h4>
+                    <p class="text-slate-600 text-sm leading-relaxed">
+                        Delegating complex analytical tasks to artificial agents. We integrate Generative AI and multi-level digital thread analytics directly into the immersive environment to assist in navigating and verifying system architectures.
+                    </p>
+                </div>
+                <!-- Paradigm 3 -->
+                <div class="bg-white p-8 rounded-2xl shadow-sm hover:shadow-md transition-shadow border border-slate-100">
+                    <div class="w-14 h-14 bg-emerald-100 rounded-xl flex items-center justify-center text-emerald-600 text-2xl mb-6">
+                        <i class="fa-solid fa-network-wired"></i>
+                    </div>
+                    <h4 class="text-xl font-bold text-slate-900 mb-3">Computer-as-Medium (CSCW)</h4>
+                    <p class="text-slate-600 text-sm leading-relaxed">
+                        Facilitating communication among teammates. We design asymmetric collaborative environments that connect Systems Architects in VR with Maintenance Engineers on Desktops/AR, fostering shared metacognitive representations.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
 
-			<p>T.T.H Tranh, G. Foucault, R. Pinquié. (2022) Benchmarking of 3D modelling in virtual reality. In Computer-Aided Design and Applications (CADA), Vol. 19, No. 6, pp. 1184-1190, 2022. DOI: <a href="https://doi.org/10.14733/cadaps.2022.1184-1190" target="_blanc">https://doi.org/10.14733/cadaps.2022.1184-1190</a></p>
-			
-	</section>
+    <!-- Research Axes -->
+    <section id="research" class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="mb-16">
+                <h2 class="text-sm font-bold tracking-widest text-brand-600 uppercase mb-3">Our Focus</h2>
+                <h3 class="text-3xl md:text-4xl font-bold text-slate-900">Core Research Axes</h3>
+            </div>
 
-    <section id="research_team"><h2>Research Team</h2>	
-		<p>- Romain Pinqui&eacute - Scientific Coordinator & Associate Professor - Univ Grenoble Alpes, CNRS, Grenoble INP, G-SCOP - contact: <a href="mailto:romain.pinquie@grenoble-inp.fr">romain.pinquie@grenoble-inp.fr</a></p>
-		<p>- Fr&eacuted&eacuteric Noel - Vision-R technological XR research platform & Full Professor - Univ Grenoble Alpes, CNRS, Grenoble INP, G-SCOP</p>
-		<p>- Gilles Foucault - Associate Professor - Univ Grenoble Alpes, CNRS, G-SCOP</p>
-		<p>- Camilo Medina -  PhD Candidate - Univ Grenoble Alpes, CNRS, Grenoble INP, G-SCOP</p>
-		<p>- Haobo Wang - Post-doctoral research fellow - Univ Grenoble Alpes, CNRS, Grenoble INP, G-SCOP</p>
-		<p>- Baptiste Paterne - Research engineer - Univ Grenoble Alpes, CNRS, Grenoble INP, G-SCOP</p>
-		<p>- Joshuel Kuilwijk - Research engineer - Univ Grenoble Alpes, CNRS, Grenoble INP, G-SCOP</p>
-		<p>- Ghislain Mugisha - PhD Candidate - Univ Grenoble Alpes, CNRS, Grenoble INP, G-SCOP</p>
-	</section>
-	
-	<section id="executive_committee"><h2>Executive Committee</h2>
-		<p>- Romain Pinqui&eacute - Scientific Coordinator & Associate Professor - Univ Grenoble Alpes, CNRS, Grenoble INP, G-SCOP</a></p>
-		<p>- Fr&eacuted&eacuteric Noel -  Vision-R technological XR research platform & Full Professor - Univ Grenoble Alpes, CNRS, Grenoble INP, G-SCOP</p>
-		<p>- Hugo Falgarone - CEO SkyReal</p>
-		<p>- Benjamin Ray - CTO SkyReal</p>
-	</section>
-	
-	<section id="steering_committee"><h2>Steering Committee</h2>
-		<p>- Members of the executive committee</p>
-		<p>- Peggy Zwolinski - Head of G-SCOP UMR CNRS Research Lab - Univ Grenoble Alpes, CNRS, Grenoble INP, G-SCOP</p>
-		<p>- Val&eacuterie Perrier -  Vice President of the Scientific Board of Univ Grenoble Alpes - Univ Grenoble Alpes, Grenoble INP</p>
-		<p>- Ahmed Lbath - Head of the Carnot research institute on software and intelligent systems - Univ Grenoble Alpes, CNRS, Grenoble INP</p>
-	</section>
-	
-	<section id="scientific_committee"><h2>Scientific and Industrial Committee</h2>
-		<p>- Members of the executive committee</p>
-		<p>- Francois Bouissi&egravere - Aircraft Architect - Airbus Group</p>
-		<p>- Nicolas Chevassus - Head of Ariane 6 Digital Transformation, Ariane Group</p>
-		<p>- Fr&eacuted&eacuteric M&eacuterienne - Full Professor, expert in virtual reality - Arts et Métiers ParisTech</p>
-		<p>- Françoise Darses - Full Professor, expert in cognitive ergonomics - Institute for Biomedical Research of Defense</p>
-	</section>
+            <div class="space-y-12">
+                <!-- Axis 1 -->
+                <div class="group flex flex-col lg:flex-row gap-8 items-center bg-slate-50 p-8 rounded-3xl border border-slate-100 hover:border-brand-200 transition-colors">
+                    <div class="w-full lg:w-1/3">
+                        <div class="aspect-w-16 aspect-h-12 rounded-xl overflow-hidden bg-slate-200">
+                            <!-- Placeholder for Axis 1 visual -->
+                            <img src="Digital threads.jpg" alt="Digital Threads" class="object-cover w-full h-full group-hover:scale-105 transition-transform duration-500">
+                        </div>
+                    </div>
+                    <div class="w-full lg:w-2/3">
+                        <div class="text-brand-600 font-bold mb-2">Research Axis 1</div>
+                        <h4 class="text-2xl font-bold text-slate-900 mb-4">Review Model-Based System Architecture</h4>
+                        <p class="text-slate-600 mb-4">
+                            Focusing on 3D User Interfaces for managing complex Digital Threads. We are exploring multimodal UI techniques that allow engineers to trace and maintain MBSE data across multiple views and levels of abstraction. 
+                        </p>
+                        <ul class="space-y-2 text-slate-600 text-sm">
+                            <li><i class="fa-solid fa-check text-brand-500 mr-2"></i> CAD-MBSE seamless data integration</li>
+                            <li><i class="fa-solid fa-check text-brand-500 mr-2"></i> 3D visual representations of SysML/UML</li>
+                            <li><i class="fa-solid fa-check text-brand-500 mr-2"></i> Analyzing digital threads with Generative AI assistance</li>
+                        </ul>
+                    </div>
+                </div>
 
-	</section>
-	
-	<h2>Aknowledgements</h2>
-	<p style="line-height: 200%">This work was originally supported by the ArchiTOOL project (grant ANR-20-CE10-0010) of the French National Research Agency. Is is now supported by the MIMESIS joint research lab project (grant ANR-23-LCV1-0002) in partnership with SkyReal, and Equipex+ Continuum (grant ANR-21-ESRE-0030) of the French National Research Agency and by the Institut Carnot LSI.</p>
+                <!-- Axis 2 -->
+                <div class="group flex flex-col lg:flex-row-reverse gap-8 items-center bg-slate-50 p-8 rounded-3xl border border-slate-100 hover:border-brand-200 transition-colors">
+                    <div class="w-full lg:w-1/3">
+                        <div class="aspect-w-16 aspect-h-12 rounded-xl overflow-hidden bg-slate-200">
+                            <img src="Collaboration.jpg" alt="Product Process" class="object-cover w-full h-full group-hover:scale-105 transition-transform duration-500">
+                        </div>
+                    </div>
+                    <div class="w-full lg:w-2/3">
+                        <div class="text-brand-600 font-bold mb-2">Research Axis 2</div>
+                        <h4 class="text-2xl font-bold text-slate-900 mb-4">Design of Model-Based System Architecture</h4>
+                        <p class="text-slate-600 mb-4">
+                            Co-architecting complex industrial product-process systems. Transitioning from abstract 2D diagrammatic representations to immersive 3D space allocations, interface routing, and factory layout flow analysis.
+                        </p>
+                        <ul class="space-y-2 text-slate-600 text-sm">
+                            <li><i class="fa-solid fa-check text-brand-500 mr-2"></i> From CONOPS to Physical Decomposition in VR</li>
+                            <li><i class="fa-solid fa-check text-brand-500 mr-2"></i> Build principles and Factory Layout Editing</li>
+                            <li><i class="fa-solid fa-check text-brand-500 mr-2"></i> Quantitative and qualitative usability testing of 3D vs 2D UI</li>
+                        </ul>
+                    </div>
+                </div>
 
-	<h2>Copyright</h2>
-	<p style="line-height: 200%">The documents contained in these directories are included by the contributing authors as a means to ensure timely dissemination of scholarly and technical work on a non-commercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright.</p>
-  </body>
-  
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
-</style>
-<div style="overflow-x: auto;">
-<table style="margin: 0 auto;">
-<thead>
-  <tr>
-    <td class="tg-zv4m" style="padding: 5px;"><img src="images/ANR.jpg" height="50" width=auto></td>
-	<td class="tg-zv4m" style="padding: 5px;"><img src="images/INP.png" height="50" width=auto></td>
-    <td class="tg-zv4m" style="padding: 5px;"><img src="images/GSCOP.jpg" height="50" width=auto></td>	
-    <td class="tg-zv4m" style="padding: 5px;"><img src="images/Skyreal.png" height="50" width=auto></td>
-    <td class="tg-zv4m" style="padding: 5px;"><img src="images/LSI.svg" height="50" width=auto></td>
-    <td class="tg-zv4m" style="padding: 5px;"><img src="images/Persyval.png" height="50" width=auto></td>
-    <td class="tg-zv4m" style="padding: 5px;"><img src="images/CIMES.png" height="50" width=auto></td>
-  </tr>
-</thead>
-</table>
-</div>
+                <!-- Axis 3 -->
+                <div class="group flex flex-col lg:flex-row gap-8 items-center bg-slate-50 p-8 rounded-3xl border border-slate-100 hover:border-brand-200 transition-colors">
+                    <div class="w-full lg:w-1/3">
+                        <div class="aspect-w-16 aspect-h-12 rounded-xl overflow-hidden bg-slate-200">
+                            <img src="Asymetric collaboration.jpg" alt="Collaboration" class="object-cover w-full h-full group-hover:scale-105 transition-transform duration-500">
+                        </div>
+                    </div>
+                    <div class="w-full lg:w-2/3">
+                        <div class="text-brand-600 font-bold mb-2">Research Axis 3</div>
+                        <h4 class="text-2xl font-bold text-slate-900 mb-4">Asymmetric Collaboration for Architecting Systems</h4>
+                        <p class="text-slate-600 mb-4">
+                            Enabling distinct engineering disciplines to work together seamlessly using different devices tailored to their specific needs. Ensuring mutual responsiveness and cognitive synchronization across the Virtuality-Reality continuum.
+                        </p>
+                        <ul class="space-y-2 text-slate-600 text-sm">
+                            <li><i class="fa-solid fa-check text-brand-500 mr-2"></i> Mixed hardware collaboration (VR Headsets, Desktop, CAVE)</li>
+                            <li><i class="fa-solid fa-check text-brand-500 mr-2"></i> Connecting Systems Architects, Project Managers, and Domain Engineers</li>
+                            <li><i class="fa-solid fa-check text-brand-500 mr-2"></i> Shared metacognitive representations of complex data</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
-  
-  <br/>
+    <!-- Media Gallery -->
+    <section id="gallery" class="py-20 bg-slate-900 text-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="mb-12 flex justify-between items-end">
+                <div>
+                    <h2 class="text-sm font-bold tracking-widest text-brand-400 uppercase mb-3">See it in Action</h2>
+                    <h3 class="text-3xl md:text-4xl font-bold">Video & Photo Gallery</h3>
+                </div>
+            </div>
+
+            <!-- Videos Grid -->
+            <h4 class="text-xl font-semibold mb-6 border-b border-slate-700 pb-2">Demonstrations</h4>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8 mb-16">
+                <!-- YouTube Video 1 -->
+                <div class="aspect-w-16 aspect-h-9 rounded-xl overflow-hidden bg-slate-800 shadow-xl border border-slate-700">
+                    <iframe src="https://www.youtube.com/embed/Dhwkm1sS_5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="w-full h-full min-h-[300px]"></iframe>
+                </div>
+                <!-- YouTube Video 2 -->
+                <div class="aspect-w-16 aspect-h-9 rounded-xl overflow-hidden bg-slate-800 shadow-xl border border-slate-700">
+                    <iframe src="https://www.youtube.com/embed/SrlNzjydVnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="w-full h-full min-h-[300px]"></iframe>
+                </div>
+                <!-- YouTube Video 3 -->
+                <div class="aspect-w-16 aspect-h-9 rounded-xl overflow-hidden bg-slate-800 shadow-xl border border-slate-700">
+                    <iframe src="https://www.youtube.com/embed/TtGoCfPBctA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="w-full h-full min-h-[300px]"></iframe>
+                </div>
+                <!-- YouTube Video 4 -->
+                <div class="aspect-w-16 aspect-h-9 rounded-xl overflow-hidden bg-slate-800 shadow-xl border border-slate-700">
+                    <iframe src="https://www.youtube.com/embed/GAmxpbcBNYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="w-full h-full min-h-[300px]"></iframe>
+                </div>
+            </div>
+
+            <!-- Photos Grid (Placeholders to be replaced by actual lab photos) -->
+            <h4 class="text-xl font-semibold mb-6 border-b border-slate-700 pb-2">Lab Snapshots</h4>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <div class="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden bg-slate-800 border border-slate-700 hover:opacity-80 transition-opacity cursor-pointer shadow-lg">
+                    <img src="Digital threads.jpg" alt="Digital Threads Analytics" class="object-cover w-full h-full">
+                </div>
+                <div class="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden bg-slate-800 border border-slate-700 hover:opacity-80 transition-opacity cursor-pointer shadow-lg">
+                    <img src="Collaboration.jpg" alt="Multi-user VR Collaboration" class="object-cover w-full h-full">
+                </div>
+                <div class="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden bg-slate-800 border border-slate-700 hover:opacity-80 transition-opacity cursor-pointer shadow-lg">
+                    <img src="Asymetric collaboration.jpg" alt="Asymmetric Collaboration Interface" class="object-cover w-full h-full">
+                </div>
+            </div>
+            <p class="text-sm text-slate-400 mt-4 italic">* Photos represent illustrative setups of industrial metaverse technologies from MIMESIS'Lab.</p>
+        </div>
+    </section>
+
+    <!-- Publications -->
+    <section id="publications" class="py-20 bg-slate-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="mb-12">
+                <h2 class="text-sm font-bold tracking-widest text-brand-600 uppercase mb-3">Academic Impact</h2>
+                <h3 class="text-3xl md:text-4xl font-bold text-slate-900">Recent Publications</h3>
+            </div>
+            
+            <div class="space-y-4">
+                <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
+                    <p class="text-slate-800"><span class="font-semibold">Exploring model-based systems architecting digital threads in virtual reality.</span> S. C. Medina Galvis, R. Pinquié, B. Paterne (2024). IFIP 21st International Conference on Product Lifecycle Management (PLM), Bangkok, Thailand.</p>
+                </div>
+                <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
+                    <p class="text-slate-800"><span class="font-semibold">Exploring the potential of virtual reality for model-based systems architecting.</span> H. Wang (2024). Doctoral dissertation, Université Grenoble Alpes. <a href="https://theses.hal.science/tel-04718368v1/" target="_blank" class="text-brand-600 hover:underline"><i class="fa-solid fa-arrow-up-right-from-square text-xs"></i> Link</a></p>
+                </div>
+                <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
+                    <p class="text-slate-800"><span class="font-semibold">Human-centric co-design of model-based system architecture.</span> R. Pinquié, H. Wang, F. Noël (2023). 33rd CIRP Design Conference, Sydney. Procedia CIRP. Vol. 109, pp. 472-477. <a href="https://doi.org/10.1016/j.procir.2023.02.131" target="_blank" class="text-brand-600 hover:underline"><i class="fa-solid fa-arrow-up-right-from-square text-xs"></i> Link</a></p>
+                </div>
+                <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
+                    <p class="text-slate-800"><span class="font-semibold">Un environnement virtuel immersif, interactif et collaboratif pour les revues de conception basées sur les modèles.</span> V. Romero (2022). Doctoral dissertation, Université Grenoble Alpes. <a href="https://theses.hal.science/tel-04048678" target="_blank" class="text-brand-600 hover:underline"><i class="fa-solid fa-arrow-up-right-from-square text-xs"></i> Link</a></p>
+                </div>
+                <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
+                    <p class="text-slate-800"><span class="font-semibold">A user-centric computer-aided verification process in a virtuality-reality continuum.</span> V. Romero, R. Pinquié, F. Noël. (2022). Computers in Industry, Vol. 140. <a href="https://doi.org/10.1016/j.compind.2022.103678" target="_blank" class="text-brand-600 hover:underline"><i class="fa-solid fa-arrow-up-right-from-square text-xs"></i> Link</a></p>
+                </div>
+                <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
+                    <p class="text-slate-800"><span class="font-semibold">An open benchmark exercise for model-based design reviews.</span> V. Romero, R. Pinquié, F Noël. (2022). PLM 2022. IFIP Advances in Information and Communication Technology, vol 667. Springer. <a href="https://doi.org/10.1007/978-3-031-25182-5_18" target="_blank" class="text-brand-600 hover:underline"><i class="fa-solid fa-arrow-up-right-from-square text-xs"></i> Link</a></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Team & Committees -->
+    <section id="team" class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-sm font-bold tracking-widest text-brand-600 uppercase mb-3">Who We Are</h2>
+                <h3 class="text-3xl md:text-4xl font-bold text-slate-900">Research Team & Committees</h3>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+                <!-- Research Team -->
+                <div>
+                    <h4 class="text-2xl font-bold text-slate-900 mb-6 border-b border-slate-200 pb-2">Research Team</h4>
+                    <ul class="space-y-4">
+                        <li class="flex items-start gap-3">
+                            <i class="fa-solid fa-user-tie mt-1 text-brand-500"></i>
+                            <div>
+                                <strong class="text-slate-900">Romain Pinquié</strong> <br>
+                                <span class="text-sm text-slate-600">Scientific Coordinator & Associate Prof. (Univ Grenoble Alpes, CNRS, Grenoble INP, G-SCOP)</span><br>
+                                <a href="mailto:romain.pinquie@grenoble-inp.fr" class="text-xs text-brand-600 hover:underline">romain.pinquie@grenoble-inp.fr</a>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <i class="fa-solid fa-user mt-1 text-slate-400"></i>
+                            <div>
+                                <strong class="text-slate-900">Frédéric Noel</strong> <br>
+                                <span class="text-sm text-slate-600">Vision-R technological XR research platform & Full Prof. (G-SCOP)</span>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <i class="fa-solid fa-user mt-1 text-slate-400"></i>
+                            <div>
+                                <strong class="text-slate-900">Gilles Foucault</strong> <br>
+                                <span class="text-sm text-slate-600">Associate Professor (G-SCOP)</span>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <i class="fa-solid fa-user-graduate mt-1 text-slate-400"></i>
+                            <div>
+                                <strong class="text-slate-900">Camilo Medina & Ghislain Mugisha</strong> <br>
+                                <span class="text-sm text-slate-600">PhD Candidates (G-SCOP)</span>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <i class="fa-solid fa-microscope mt-1 text-slate-400"></i>
+                            <div>
+                                <strong class="text-slate-900">Haobo Wang</strong> <br>
+                                <span class="text-sm text-slate-600">Post-doctoral research fellow (G-SCOP)</span>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <i class="fa-solid fa-laptop-code mt-1 text-slate-400"></i>
+                            <div>
+                                <strong class="text-slate-900">Baptiste Paterne & Joshuel Kuilwijk</strong> <br>
+                                <span class="text-sm text-slate-600">Research Engineers (G-SCOP)</span>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Committees -->
+                <div>
+                    <h4 class="text-2xl font-bold text-slate-900 mb-6 border-b border-slate-200 pb-2">Committees</h4>
+                    
+                    <div class="mb-6">
+                        <h5 class="text-lg font-semibold text-brand-800 mb-3">Executive Committee</h5>
+                        <ul class="space-y-2 text-sm text-slate-600 ml-2 border-l-2 border-brand-100 pl-4">
+                            <li><strong>Romain Pinquié</strong> & <strong>Frédéric Noel</strong> (G-SCOP)</li>
+                            <li><strong>Hugo Falgarone</strong> (CEO SkyReal) & <strong>Benjamin Ray</strong> (CTO SkyReal)</li>
+                        </ul>
+                    </div>
+
+                    <div class="mb-6">
+                        <h5 class="text-lg font-semibold text-brand-800 mb-3">Steering Committee</h5>
+                        <ul class="space-y-2 text-sm text-slate-600 ml-2 border-l-2 border-brand-100 pl-4">
+                            <li>Executive committee members</li>
+                            <li><strong>Peggy Zwolinski</strong> (Head of G-SCOP UMR CNRS)</li>
+                            <li><strong>Valérie Perrier</strong> (VP Scientific Board Univ Grenoble Alpes)</li>
+                            <li><strong>Ahmed Lbath</strong> (Head of Carnot LSI)</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h5 class="text-lg font-semibold text-brand-800 mb-3">Scientific and Industrial Committee</h5>
+                        <ul class="space-y-2 text-sm text-slate-600 ml-2 border-l-2 border-brand-100 pl-4">
+                            <li>Executive committee members</li>
+                            <li><strong>Francois Bouissière</strong> (Aircraft Architect, Airbus Group)</li>
+                            <li><strong>Nicolas Chevassus</strong> (Head of Ariane 6 Digital Transformation, Ariane Group)</li>
+                            <li><strong>Frédéric Mérienne</strong> (Full Prof., XR expert, Arts et Métiers ParisTech)</li>
+                            <li><strong>Françoise Darses</strong> (Full Prof., Cognitive ergonomics expert, Institute for Biomedical Research of Defense)</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Partners & Footer -->
+    <footer class="bg-slate-900 border-t border-slate-800 pt-16 pb-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <h4 class="text-white text-lg font-semibold mb-8">Supported By & In Partnership With</h4>
+                
+                <!-- Logos grid -->
+                <div class="flex flex-wrap justify-center items-center gap-8 md:gap-12 bg-white/5 p-8 rounded-2xl">
+                    <!-- Note: Real paths preserved from original HTML. Fallbacks added for rendering preview -->
+                    <img src="images/ANR.jpg" alt="ANR Logo" class="h-12 object-contain bg-white p-1 rounded" onerror="this.src='https://via.placeholder.com/100x40?text=ANR'">
+                    <img src="images/INP.png" alt="Grenoble INP Logo" class="h-12 object-contain bg-white p-1 rounded" onerror="this.src='https://via.placeholder.com/120x40?text=Grenoble+INP'">
+                    <img src="images/GSCOP.jpg" alt="G-SCOP Logo" class="h-12 object-contain bg-white p-1 rounded" onerror="this.src='https://via.placeholder.com/100x40?text=G-SCOP'">
+                    <img src="images/Skyreal.png" alt="SkyReal Logo" class="h-12 object-contain bg-white p-1 rounded" onerror="this.src='https://via.placeholder.com/100x40?text=SkyReal'">
+                    <img src="images/LSI.svg" alt="Institut Carnot LSI Logo" class="h-12 object-contain bg-white p-1 rounded" onerror="this.src='https://via.placeholder.com/100x40?text=Carnot+LSI'">
+                    <img src="images/Persyval.png" alt="Persyval Logo" class="h-12 object-contain bg-white p-1 rounded" onerror="this.src='https://via.placeholder.com/100x40?text=Persyval'">
+                    <img src="images/CIMES.png" alt="CIMES Logo" class="h-12 object-contain bg-white p-1 rounded" onerror="this.src='https://via.placeholder.com/100x40?text=CIMES'">
+                </div>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 text-slate-400 text-sm mb-8">
+                <div>
+                    <h5 class="text-white font-semibold mb-3">Acknowledgements</h5>
+                    <p class="leading-relaxed">
+                        This work was originally supported by the ArchiTOOL project (grant ANR-20-CE10-0010) of the French National Research Agency. It is now supported by the MIMESIS joint research lab project (grant ANR-23-LCV1-0002) in partnership with SkyReal, and Equipex+ Continuum (grant ANR-21-ESRE-0030) of the French National Research Agency and by the Institut Carnot LSI.
+                    </p>
+                </div>
+                <div>
+                    <h5 class="text-white font-semibold mb-3">Copyright</h5>
+                    <p class="leading-relaxed">
+                        The documents contained in these directories are included by the contributing authors as a means to ensure timely dissemination of scholarly and technical work on a non-commercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders.
+                    </p>
+                </div>
+            </div>
+
+            <div class="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center text-slate-500 text-sm">
+                <p>&copy; 2024-2028 MIMESIS'Lab. All rights reserved.</p>
+                <div class="mt-4 md:mt-0">
+                    <a href="https://g-scop.grenoble-inp.fr/" target="_blank" class="hover:text-white transition-colors mr-4">G-SCOP Website</a>
+                    <a href="https://sky-real.com/fr/" target="_blank" class="hover:text-white transition-colors">SkyReal Website</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Mobile Menu Script -->
+    <script>
+        const btn = document.getElementById('mobile-menu-btn');
+        const menu = document.getElementById('mobile-menu');
+
+        btn.addEventListener('click', () => {
+            menu.classList.toggle('hidden');
+        });
+    </script>
+</body>
 </html>
